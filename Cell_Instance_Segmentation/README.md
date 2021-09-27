@@ -1,10 +1,18 @@
 # Arontier 회사에서 진행한 Cell Instance Segmentation task
   - 목적 : 활용가능한 모든 datasets을 활용하여 회사 서버 내에 Cell Instance Segmentation model 구축.
-  -       (Build new Cell Instance Segmentation model in server of company using all available datasets)
   - 논문 : HoVer-Net: Simultaneous Segmentation and Classification of Nuclei in Multi-Tissue Histology Images 참고하였음.
-  -       (I referred to HoVer-Net: Simultaneous Segmentation and Classification of Nuclei in Multi-Tissue Histology Images)
-           * base로 https://github.com/vqdang/hover_net code를 참고하여 작성.
-          (I also referred to https://github.com/vqdang/hover_net for code)
+
+
+
+## Result
+
+As I mentioned above, you will get Overlay output as a result of running the code.
+If you want more about the result, refer to ``` examles/usage.ipynb ```
+
+|  Input(삼성병원 위암 데이터) |  Output |  Output |
+| --- | --- | --- |
+|![jpg_input/svs_jpg.jpg](jpg_input/svs_jpg.jpg)|![jpg_output_notype/result_overlay_map_svs_jpg_NucleiNumber905.jpg](jpg_output_notype/result_overlay_map_svs_jpg_NucleiNumber905.jpg)|![jpg_output_type/result_overlay_classification_map_svs_jpg_NucleiNumber308.jpg](jpg_output_type/result_overlay_classification_map_svs_jpg_NucleiNumber308.jpg)|
+
 
 
 
@@ -86,14 +94,6 @@ _※※※※NOTE※※※※_
  
  
 
-## Result
-
-As I mentioned above, you will get Overlay output as a result of running the code.
-If you want more about the result, refer to ``` examles/usage.ipynb ```
-
-|  Input |  Output |  Output |
-| --- | --- | --- |
-|![jpg_input/svs_jpg.jpg](jpg_input/svs_jpg.jpg)|![jpg_output_notype/result_overlay_map_svs_jpg_NucleiNumber905.jpg](jpg_output_notype/result_overlay_map_svs_jpg_NucleiNumber905.jpg)|![jpg_output_type/result_overlay_classification_map_svs_jpg_NucleiNumber308.jpg](jpg_output_type/result_overlay_classification_map_svs_jpg_NucleiNumber308.jpg)|
 
 
 
