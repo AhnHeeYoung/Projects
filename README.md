@@ -1,6 +1,6 @@
 # 개인 Projects를 정리하였습니다.
 
-1. Cell Instance Segmentation (task : Image Segmentation)
+1. Cell Instance Segmentation (task : Instance Segmentation)
 
 2. HE_IHC (task : Image Registration and Generation)
 
