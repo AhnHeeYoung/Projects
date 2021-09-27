@@ -9,7 +9,7 @@
 As I mentioned above, you will get Overlay output as a result of running the code.
 If you want more about the result, refer to ``` examles/usage.ipynb ```
 
-|  Input(삼성병원 위암 데이터) |  Output |  Output |
+|  Input(삼성병원 위암 데이터) |  Output(no class) |  Output(class) |
 | --- | --- | --- |
 |![jpg_input/svs_jpg.jpg](jpg_input/svs_jpg.jpg)|![jpg_output_notype/result_overlay_map_svs_jpg_NucleiNumber905.jpg](jpg_output_notype/result_overlay_map_svs_jpg_NucleiNumber905.jpg)|![jpg_output_type/result_overlay_classification_map_svs_jpg_NucleiNumber308.jpg](jpg_output_type/result_overlay_classification_map_svs_jpg_NucleiNumber308.jpg)|
 
