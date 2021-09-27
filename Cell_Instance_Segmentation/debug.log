@@ -1,0 +1,1073 @@
+|2021-08-26|15:29:15.197| [INFO] .... Detect #GPUS: 1
+|2021-08-26|15:30:15.689| [INFO] .... Detect #GPUS: 1
+|2021-08-26|15:32:08.040| [INFO] .... Detect #GPUS: 1
+|2021-08-26|15:32:54.758| [INFO] .... Detect #GPUS: 1
+|2021-08-26|15:33:14.273| [INFO] ........  Result Save .... 
+|2021-08-26|15:34:29.417| [INFO] .... Detect #GPUS: 1
+|2021-08-26|15:34:48.990| [INFO] ........  Result Save .... 
+|2021-08-26|15:35:25.557| [INFO] .... Detect #GPUS: 1
+|2021-08-26|15:35:44.741| [INFO] ........  Result Save .... 
+|2021-08-26|15:36:44.301| [INFO] .... Detect #GPUS: 1
+|2021-08-26|15:37:03.470| [INFO] ........  Result Save .... 
+|2021-08-26|15:38:08.783| [INFO] .... Detect #GPUS: 1
+|2021-08-26|15:38:27.901| [INFO] ........  Result Save .... 
+|2021-08-26|15:39:07.726| [INFO] .... Detect #GPUS: 1
+|2021-08-26|15:39:27.459| [INFO] ........  Result Save .... 
+|2021-08-26|15:41:21.837| [INFO] .... Detect #GPUS: 1
+|2021-08-26|15:41:41.959| [INFO] ........  Result Save .... 
+|2021-08-26|15:43:25.719| [INFO] .... Detect #GPUS: 1
+|2021-08-26|15:43:45.600| [INFO] ........  Result Save .... 
+|2021-08-26|15:44:23.170| [INFO] .... Detect #GPUS: 1
+|2021-08-26|15:44:42.747| [INFO] ........  Result Save .... 
+|2021-08-26|15:45:21.645| [INFO] .... Detect #GPUS: 1
+|2021-08-26|15:45:42.103| [INFO] ........  Result Save .... 
+|2021-08-26|15:46:22.585| [INFO] .... Detect #GPUS: 1
+|2021-08-26|15:46:42.719| [INFO] ........  Result Save .... 
+|2021-08-26|15:47:51.143| [INFO] .... Detect #GPUS: 1
+|2021-08-26|15:48:11.652| [INFO] ........  Result Save .... 
+|2021-08-26|15:48:30.747| [INFO] .... Detect #GPUS: 1
+|2021-08-26|15:48:51.281| [INFO] ........  Result Save .... 
+|2021-08-26|15:49:14.503| [INFO] .... Detect #GPUS: 1
+|2021-08-26|15:49:34.496| [INFO] ........  Result Save .... 
+|2021-08-26|15:50:50.450| [INFO] .... Detect #GPUS: 1
+|2021-08-26|15:51:10.947| [INFO] ........  Result Save .... 
+|2021-08-26|15:51:11.059| [INFO] ........ Instance map  Save Complete
+|2021-08-26|15:51:11.060| [INFO] ........ Overlay map  Save Complete
+|2021-08-26|15:51:11.071| [INFO] ........  Number of Nuclei : 700 
+|2021-08-26|15:54:04.353| [INFO] .... Detect #GPUS: 1
+|2021-08-26|15:54:24.601| [INFO] ........  Result Save .... 
+|2021-08-26|15:54:38.591| [INFO] .... Detect #GPUS: 1
+|2021-08-26|15:54:58.939| [INFO] ........  Result Save .... 
+|2021-08-26|15:55:22.894| [INFO] .... Detect #GPUS: 1
+|2021-08-26|15:55:42.210| [INFO] .... Detect #GPUS: 1
+|2021-08-26|15:56:02.332| [INFO] ........  Result Save .... 
+|2021-08-26|15:56:02.503| [INFO] ........ Instance map  Save Complete
+|2021-08-26|15:56:02.504| [INFO] ........ Overlay map  Save Complete
+|2021-08-26|15:56:02.516| [INFO] ........  Number of Nuclei : 700 
+|2021-08-26|15:56:33.028| [INFO] .... Detect #GPUS: 1
+|2021-08-26|15:56:52.589| [INFO] ........  Result Save .... 
+|2021-08-26|15:56:52.708| [INFO] ........ Instance map  Save Complete
+|2021-08-26|15:56:52.708| [INFO] ........ Overlay map  Save Complete
+|2021-08-26|15:56:52.717| [INFO] ........  Number of Nuclei : 700 
+|2021-08-26|15:58:17.102| [INFO] .... Detect #GPUS: 1
+|2021-08-26|16:02:53.362| [INFO] .... Detect #GPUS: 1
+|2021-08-26|16:03:15.176| [INFO] ........  Result Save .... 
+|2021-08-26|16:03:15.330| [INFO] ........ Instance map  Save Complete
+|2021-08-26|16:03:15.330| [INFO] ........ Overlay map  Save Complete
+|2021-08-26|16:03:15.336| [INFO] ........  Number of Nuclei : 308 
+|2021-08-26|16:07:14.592| [INFO] .... Detect #GPUS: 1
+|2021-08-26|16:07:25.650| [INFO] .... Detect #GPUS: 1
+|2021-08-26|16:07:33.572| [INFO] .... Detect #GPUS: 1
+|2021-08-26|16:07:37.964| [INFO] ................ Process: S14-08085-3U-HIGH_region1000
+|2021-08-26|16:07:38.260| [INFO] ................ WARNING: No mask found, generating mask via thresholding at 1.25x!
+|2021-08-26|16:07:38.425| [INFO] ........ Preparing Input Output Placement: 0.46023393189534545
+|2021-08-26|16:07:51.186| [INFO] ........ Inference Time: 12.759279328864068
+|2021-08-26|16:08:00.401| [INFO] ........ Total Post Proc Time: 9.214225552044809
+|2021-08-26|16:08:00.454| [INFO] ........ Save Time: 0.051774085965007544
+|2021-08-26|16:08:00.454| [INFO] ................ Finish
+|2021-08-26|16:08:00.455| [INFO] ........  Result Save .... 
+|2021-08-26|16:11:54.583| [INFO] .... Detect #GPUS: 1
+|2021-08-26|16:11:59.019| [INFO] ................ Skip: S14-08085-3U-HIGH_region1000
+|2021-08-26|16:11:59.019| [INFO] ........  Result Save .... 
+|2021-08-26|16:27:22.838| [INFO] .... Detect #GPUS: 1
+|2021-08-26|16:27:27.274| [INFO] ................ Skip: S14-08085-3U-HIGH_region1000
+|2021-08-26|16:27:39.825| [INFO] .... Detect #GPUS: 1
+|2021-08-26|16:27:43.879| [INFO] ................ Skip: S14-08085-3U-HIGH_region1000
+|2021-08-26|16:30:54.757| [INFO] .... Detect #GPUS: 1
+|2021-08-26|16:30:59.082| [INFO] ................ Process: S14-08085-3U-HIGH_region1000
+|2021-08-26|16:30:59.095| [INFO] ................ WARNING: No mask found, generating mask via thresholding at 1.25x!
+|2021-08-26|16:30:59.246| [INFO] ........ Preparing Input Output Placement: 0.16344872792251408
+|2021-08-26|16:31:11.724| [INFO] ........ Inference Time: 12.477450245060027
+|2021-08-26|16:31:20.507| [INFO] ........ Total Post Proc Time: 8.780953827081248
+|2021-08-26|16:31:20.556| [INFO] ........ Save Time: 0.048939283937215805
+|2021-08-26|16:31:20.557| [INFO] ................ Finish
+|2021-08-26|16:32:04.796| [INFO] .... Detect #GPUS: 1
+|2021-08-26|16:32:09.063| [INFO] ................ Skip: S14-08085-3U-HIGH_region1000
+|2021-08-26|16:32:31.834| [INFO] .... Detect #GPUS: 1
+|2021-08-26|16:32:36.129| [INFO] ................ Skip: S14-08085-3U-HIGH_region1000
+|2021-08-26|16:32:36.382| [INFO] ........ Number of Nuclei : 450
+|2021-08-26|16:33:27.384| [INFO] .... Detect #GPUS: 1
+|2021-08-26|16:33:47.591| [INFO] ........  Result Save .... 
+|2021-08-26|16:35:02.300| [INFO] .... Detect #GPUS: 1
+|2021-08-26|16:35:06.776| [INFO] ................ Skip: S14-08085-3U-HIGH_region1000
+|2021-08-26|16:35:06.927| [INFO] ........ Number of Nuclei : 128
+|2021-08-26|16:35:18.413| [INFO] .... Detect #GPUS: 1
+|2021-08-26|16:35:22.404| [INFO] ................ Process: S14-08085-3U-HIGH_region1000
+|2021-08-26|16:35:22.413| [INFO] ................ WARNING: No mask found, generating mask via thresholding at 1.25x!
+|2021-08-26|16:35:22.527| [INFO] ........ Preparing Input Output Placement: 0.12225676700472832
+|2021-08-26|16:35:34.741| [INFO] ........ Inference Time: 12.212515648920089
+|2021-08-26|16:35:43.511| [INFO] ........ Total Post Proc Time: 8.769226812990382
+|2021-08-26|16:35:43.561| [INFO] ........ Save Time: 0.048848288133740425
+|2021-08-26|16:35:43.561| [INFO] ................ Finish
+|2021-08-26|16:35:43.875| [INFO] ........ Number of Nuclei : 448
+|2021-08-26|16:36:10.461| [INFO] .... Detect #GPUS: 1
+|2021-08-26|16:36:14.931| [INFO] ................ Process: S14-08085-3U-HIGH_region1000
+|2021-08-26|16:36:14.943| [INFO] ................ WARNING: No mask found, generating mask via thresholding at 1.25x!
+|2021-08-26|16:36:15.101| [INFO] ........ Preparing Input Output Placement: 0.16950682597234845
+|2021-08-26|16:36:28.110| [INFO] ........ Inference Time: 13.00652039796114
+|2021-08-26|16:36:37.102| [INFO] ........ Total Post Proc Time: 8.989228082122281
+|2021-08-26|16:36:37.110| [INFO] ........ Save Time: 0.007764022098854184
+|2021-08-26|16:36:37.110| [INFO] ................ Finish
+|2021-08-26|16:37:21.879| [INFO] .... Detect #GPUS: 1
+|2021-08-26|16:37:25.833| [INFO] ................ Skip: S14-08085-3U-HIGH_region1000
+|2021-08-26|16:37:26.057| [INFO] ........ Number of Nuclei : 71
+|2021-08-26|16:37:37.577| [INFO] .... Detect #GPUS: 1
+|2021-08-26|16:37:41.632| [INFO] ................ Process: S14-08085-3U-HIGH_region1000
+|2021-08-26|16:37:41.641| [INFO] ................ WARNING: No mask found, generating mask via thresholding at 1.25x!
+|2021-08-26|16:37:41.760| [INFO] ........ Preparing Input Output Placement: 0.12680924613960087
+|2021-08-26|16:37:54.546| [INFO] ........ Inference Time: 12.784240277018398
+|2021-08-26|16:38:01.923| [INFO] ........ Total Post Proc Time: 7.375919749028981
+|2021-08-26|16:38:01.936| [INFO] ........ Save Time: 0.01251051900908351
+|2021-08-26|16:38:01.936| [INFO] ................ Finish
+|2021-08-26|16:38:02.215| [INFO] ........ Number of Nuclei : 73
+|2021-08-27|10:11:28.859| [INFO] .... Detect #GPUS: 1
+|2021-08-27|10:11:53.321| [INFO] ........  Result Save .... 
+|2021-08-27|10:11:53.515| [INFO] ........ Instance map  Save Complete
+|2021-08-27|10:11:53.515| [INFO] ........ Overlay map  Save Complete
+|2021-08-27|10:11:53.515| [INFO] ........  Number of Nuclei : 656 
+|2021-08-27|10:13:55.624| [INFO] .... Detect #GPUS: 1
+|2021-08-27|10:14:15.522| [INFO] ........  Result Save .... 
+|2021-08-27|10:16:01.150| [INFO] .... Detect #GPUS: 1
+|2021-08-27|10:16:15.181| [INFO] .... Detect #GPUS: 1
+|2021-08-27|10:16:34.918| [INFO] ........  Result Save .... 
+|2021-08-27|10:16:57.509| [INFO] .... Detect #GPUS: 1
+|2021-08-27|10:17:17.358| [INFO] ........  Result Save .... 
+|2021-08-27|10:17:17.506| [INFO] ........ Instance map  Save Complete
+|2021-08-27|10:17:17.506| [INFO] ........ Overlay map  Save Complete
+|2021-08-27|10:17:17.507| [INFO] ........  Number of Nuclei : 308 
+|2021-08-27|14:45:08.681| [INFO] .... Detect #GPUS: 1
+|2021-08-27|14:45:41.646| [INFO] ........  Result Save .... 
+|2021-08-27|14:45:41.735| [INFO] ........ Instance map  Save Complete
+|2021-08-27|14:45:41.735| [INFO] ........ Overlay map  Save Complete
+|2021-08-27|14:45:41.736| [INFO] ........  Number of Nuclei : 332 
+|2021-08-27|17:11:14.155| [INFO] .... Detect #GPUS: 1
+|2021-08-27|17:11:52.025| [INFO] ........  Result Save .... 
+|2021-08-27|17:11:52.172| [INFO] ............ Instance map  Save Complete
+|2021-08-27|17:11:52.173| [INFO] ............ Overlay map  Save Complete
+|2021-08-27|17:11:52.173| [INFO] ............ TCGA-21-5784-01Z-00-DX1 Number of Nuclei : 332 
+|2021-08-27|17:11:52.319| [INFO] ............ Instance map  Save Complete
+|2021-08-27|17:11:52.319| [INFO] ............ Overlay map  Save Complete
+|2021-08-27|17:11:52.319| [INFO] ............ TCGA-21-5786-01Z-00-DX1 Number of Nuclei : 357 
+|2021-08-27|17:11:52.460| [INFO] ............ Instance map  Save Complete
+|2021-08-27|17:11:52.461| [INFO] ............ Overlay map  Save Complete
+|2021-08-27|17:11:52.461| [INFO] ............ TCGA-B0-5698-01Z-00-DX1 Number of Nuclei : 243 
+|2021-08-27|17:12:34.301| [INFO] .... Detect #GPUS: 1
+|2021-08-27|17:13:20.186| [INFO] ........  Result Save .... 
+|2021-08-27|17:13:20.294| [INFO] ............ Instance map  Save Complete
+|2021-08-27|17:13:20.294| [INFO] ............ Overlay map  Save Complete
+|2021-08-27|17:13:20.294| [INFO] ............ TCGA-21-5784-01Z-00-DX1 Number of Nuclei : 332 
+|2021-08-27|17:13:20.414| [INFO] ............ Instance map  Save Complete
+|2021-08-27|17:13:20.414| [INFO] ............ Overlay map  Save Complete
+|2021-08-27|17:13:20.414| [INFO] ............ TCGA-21-5786-01Z-00-DX1 Number of Nuclei : 357 
+|2021-08-27|17:13:20.552| [INFO] ............ Instance map  Save Complete
+|2021-08-27|17:13:20.552| [INFO] ............ Overlay map  Save Complete
+|2021-08-27|17:13:20.552| [INFO] ............ TCGA-B0-5698-01Z-00-DX1 Number of Nuclei : 243 
+|2021-08-27|17:19:37.116| [INFO] .... Detect #GPUS: 1
+|2021-08-27|17:20:24.658| [INFO] ........  Result Save .... 
+|2021-08-27|17:20:24.780| [INFO] ............ Instance map  Save Complete
+|2021-08-27|17:20:24.781| [INFO] ............ Overlay map  Save Complete
+|2021-08-27|17:20:24.781| [INFO] ............ TCGA-21-5784-01Z-00-DX1 Number of Nuclei : 423 
+|2021-08-27|17:20:24.923| [INFO] ............ Instance map  Save Complete
+|2021-08-27|17:20:24.923| [INFO] ............ Overlay map  Save Complete
+|2021-08-27|17:20:24.924| [INFO] ............ TCGA-21-5786-01Z-00-DX1 Number of Nuclei : 417 
+|2021-08-27|17:20:25.075| [INFO] ............ Instance map  Save Complete
+|2021-08-27|17:20:25.076| [INFO] ............ Overlay map  Save Complete
+|2021-08-27|17:20:25.076| [INFO] ............ TCGA-B0-5698-01Z-00-DX1 Number of Nuclei : 381 
+|2021-08-27|17:52:10.991| [INFO] .... Detect #GPUS: 1
+|2021-08-27|17:52:34.645| [INFO] ........  Result Save .... 
+|2021-08-27|17:52:34.729| [INFO] ............ Instance map  Save Complete
+|2021-08-27|17:52:34.730| [INFO] ............ Overlay map  Save Complete
+|2021-08-27|17:52:34.730| [INFO] ............ TCGA-21-5784-01Z-00-DX1_20x Number of Nuclei : 245 
+|2021-08-27|17:52:34.761| [INFO] ............ Instance map  Save Complete
+|2021-08-27|17:52:34.761| [INFO] ............ Overlay map  Save Complete
+|2021-08-27|17:52:34.761| [INFO] ............ TCGA-21-5786-01Z-00-DX1_20x Number of Nuclei : 383 
+|2021-08-27|17:52:34.788| [INFO] ............ Instance map  Save Complete
+|2021-08-27|17:52:34.788| [INFO] ............ Overlay map  Save Complete
+|2021-08-27|17:52:34.788| [INFO] ............ TCGA-B0-5698-01Z-00-DX1_20x Number of Nuclei : 169 
+|2021-08-27|17:56:27.874| [INFO] .... Detect #GPUS: 1
+|2021-08-27|17:56:51.628| [INFO] ........  Result Save .... 
+|2021-08-27|17:56:51.659| [INFO] ............ Instance map  Save Complete
+|2021-08-27|17:56:51.659| [INFO] ............ Overlay map  Save Complete
+|2021-08-27|17:56:51.660| [INFO] ............ TCGA-21-5784-01Z-00-DX1_20x Number of Nuclei : 244 
+|2021-08-27|17:56:51.786| [INFO] ............ Instance map  Save Complete
+|2021-08-27|17:56:51.787| [INFO] ............ Overlay map  Save Complete
+|2021-08-27|17:56:51.787| [INFO] ............ TCGA-21-5786-01Z-00-DX1_20x Number of Nuclei : 271 
+|2021-08-27|17:56:51.813| [INFO] ............ Instance map  Save Complete
+|2021-08-27|17:56:51.813| [INFO] ............ Overlay map  Save Complete
+|2021-08-27|17:56:51.814| [INFO] ............ TCGA-B0-5698-01Z-00-DX1_20x Number of Nuclei : 224 
+|2021-09-01|15:17:10.071| [INFO] .... Detect #GPUS: 1
+|2021-09-01|15:17:23.745| [INFO] .... Detect #GPUS: 1
+|2021-09-01|15:19:41.273| [INFO] .... Detect #GPUS: 1
+|2021-09-01|15:20:51.832| [INFO] ........  Result Save .... 
+|2021-09-01|15:20:52.021| [INFO] ............ Instance map  Save Complete
+|2021-09-01|15:20:52.021| [INFO] ............ Overlay map  Save Complete
+|2021-09-01|15:20:52.021| [INFO] ............ consep_test_1 Number of Nuclei : 487 
+|2021-09-01|15:20:52.324| [INFO] ............ Instance map  Save Complete
+|2021-09-01|15:20:52.324| [INFO] ............ Overlay map  Save Complete
+|2021-09-01|15:20:52.324| [INFO] ............ consep_test_2 Number of Nuclei : 1548 
+|2021-09-01|15:20:52.580| [INFO] ............ Instance map  Save Complete
+|2021-09-01|15:20:52.580| [INFO] ............ Overlay map  Save Complete
+|2021-09-01|15:20:52.581| [INFO] ............ kumar_test_TCGA-B0-5698-01Z-00-DX1 Number of Nuclei : 1652 
+|2021-09-01|15:20:52.829| [INFO] ............ Instance map  Save Complete
+|2021-09-01|15:20:52.829| [INFO] ............ Overlay map  Save Complete
+|2021-09-01|15:20:52.829| [INFO] ............ kumar_test_TCGA-E2-A14V-01Z-00-DX1 Number of Nuclei : 854 
+|2021-09-01|15:20:52.949| [INFO] ............ Instance map  Save Complete
+|2021-09-01|15:20:52.949| [INFO] ............ Overlay map  Save Complete
+|2021-09-01|15:20:52.949| [INFO] ............ tnbc_test_09_4 Number of Nuclei : 51 
+|2021-09-01|15:20:53.000| [INFO] ............ Instance map  Save Complete
+|2021-09-01|15:20:53.001| [INFO] ............ Overlay map  Save Complete
+|2021-09-01|15:20:53.001| [INFO] ............ tnbc_test_09_5 Number of Nuclei : 363 
+|2021-09-01|15:24:27.670| [INFO] .... Detect #GPUS: 1
+|2021-09-01|15:25:36.195| [INFO] ........  Result Save .... 
+|2021-09-01|15:25:36.332| [INFO] ............ Instance map  Save Complete
+|2021-09-01|15:25:36.333| [INFO] ............ Overlay map  Save Complete
+|2021-09-01|15:25:36.333| [INFO] ............ consep_test_1 Number of Nuclei : 815 
+|2021-09-01|15:25:36.463| [INFO] ............ Instance map  Save Complete
+|2021-09-01|15:25:36.463| [INFO] ............ Overlay map  Save Complete
+|2021-09-01|15:25:36.463| [INFO] ............ consep_test_2 Number of Nuclei : 269 
+|2021-09-01|15:25:36.592| [INFO] ............ Instance map  Save Complete
+|2021-09-01|15:25:36.592| [INFO] ............ Overlay map  Save Complete
+|2021-09-01|15:25:36.592| [INFO] ............ kumar_test_TCGA-B0-5698-01Z-00-DX1 Number of Nuclei : 136 
+|2021-09-01|15:25:36.773| [INFO] ............ Instance map  Save Complete
+|2021-09-01|15:25:36.773| [INFO] ............ Overlay map  Save Complete
+|2021-09-01|15:25:36.773| [INFO] ............ kumar_test_TCGA-E2-A14V-01Z-00-DX1 Number of Nuclei : 475 
+|2021-09-01|15:25:36.815| [INFO] ............ Instance map  Save Complete
+|2021-09-01|15:25:36.816| [INFO] ............ Overlay map  Save Complete
+|2021-09-01|15:25:36.816| [INFO] ............ tnbc_test_09_4 Number of Nuclei : 10 
+|2021-09-01|15:25:36.860| [INFO] ............ Instance map  Save Complete
+|2021-09-01|15:25:36.861| [INFO] ............ Overlay map  Save Complete
+|2021-09-01|15:25:36.861| [INFO] ............ tnbc_test_09_5 Number of Nuclei : 11 
+|2021-09-01|15:27:56.163| [INFO] .... Detect #GPUS: 1
+|2021-09-01|15:29:01.892| [INFO] ........  Result Save .... 
+|2021-09-01|15:29:02.031| [INFO] ............ Instance map  Save Complete
+|2021-09-01|15:29:02.031| [INFO] ............ Overlay map  Save Complete
+|2021-09-01|15:29:02.032| [INFO] ............ consep_test_1 Number of Nuclei : 815 
+|2021-09-01|15:29:02.188| [INFO] ............ Instance map  Save Complete
+|2021-09-01|15:29:02.189| [INFO] ............ Overlay map  Save Complete
+|2021-09-01|15:29:02.189| [INFO] ............ consep_test_2 Number of Nuclei : 269 
+|2021-09-01|15:29:02.344| [INFO] ............ Instance map  Save Complete
+|2021-09-01|15:29:02.344| [INFO] ............ Overlay map  Save Complete
+|2021-09-01|15:29:02.345| [INFO] ............ kumar_test_TCGA-B0-5698-01Z-00-DX1 Number of Nuclei : 136 
+|2021-09-01|15:29:02.537| [INFO] ............ Instance map  Save Complete
+|2021-09-01|15:29:02.537| [INFO] ............ Overlay map  Save Complete
+|2021-09-01|15:29:02.537| [INFO] ............ kumar_test_TCGA-E2-A14V-01Z-00-DX1 Number of Nuclei : 475 
+|2021-09-01|15:29:02.580| [INFO] ............ Instance map  Save Complete
+|2021-09-01|15:29:02.580| [INFO] ............ Overlay map  Save Complete
+|2021-09-01|15:29:02.580| [INFO] ............ tnbc_test_09_4 Number of Nuclei : 10 
+|2021-09-01|15:29:02.631| [INFO] ............ Instance map  Save Complete
+|2021-09-01|15:29:02.631| [INFO] ............ Overlay map  Save Complete
+|2021-09-01|15:29:02.632| [INFO] ............ tnbc_test_09_5 Number of Nuclei : 11 
+|2021-09-01|15:29:48.345| [INFO] .... Detect #GPUS: 1
+|2021-09-01|15:30:57.473| [INFO] ........  Result Save .... 
+|2021-09-01|15:30:57.669| [INFO] ............ Instance map  Save Complete
+|2021-09-01|15:30:57.669| [INFO] ............ Overlay map  Save Complete
+|2021-09-01|15:30:57.669| [INFO] ............ consep_test_1 Number of Nuclei : 487 
+|2021-09-01|15:30:57.998| [INFO] ............ Instance map  Save Complete
+|2021-09-01|15:30:57.998| [INFO] ............ Overlay map  Save Complete
+|2021-09-01|15:30:57.998| [INFO] ............ consep_test_2 Number of Nuclei : 1548 
+|2021-09-01|15:30:58.246| [INFO] ............ Instance map  Save Complete
+|2021-09-01|15:30:58.246| [INFO] ............ Overlay map  Save Complete
+|2021-09-01|15:30:58.246| [INFO] ............ kumar_test_TCGA-B0-5698-01Z-00-DX1 Number of Nuclei : 1652 
+|2021-09-01|15:30:58.452| [INFO] ............ Instance map  Save Complete
+|2021-09-01|15:30:58.452| [INFO] ............ Overlay map  Save Complete
+|2021-09-01|15:30:58.452| [INFO] ............ kumar_test_TCGA-E2-A14V-01Z-00-DX1 Number of Nuclei : 854 
+|2021-09-01|15:30:58.551| [INFO] ............ Instance map  Save Complete
+|2021-09-01|15:30:58.551| [INFO] ............ Overlay map  Save Complete
+|2021-09-01|15:30:58.551| [INFO] ............ tnbc_test_09_4 Number of Nuclei : 51 
+|2021-09-01|15:30:58.604| [INFO] ............ Instance map  Save Complete
+|2021-09-01|15:30:58.605| [INFO] ............ Overlay map  Save Complete
+|2021-09-01|15:30:58.605| [INFO] ............ tnbc_test_09_5 Number of Nuclei : 363 
+|2021-09-02|10:05:04.220| [INFO] .... Detect #GPUS: 1
+|2021-09-02|10:06:16.703| [INFO] ........  Result Save .... 
+|2021-09-02|10:06:16.781| [INFO] ............ Instance map  Save Complete
+|2021-09-02|10:06:16.781| [INFO] ............ Overlay map  Save Complete
+|2021-09-02|10:06:16.781| [INFO] ............ consep_test_1 Number of Nuclei : 0 
+|2021-09-02|10:06:16.860| [INFO] ............ Instance map  Save Complete
+|2021-09-02|10:06:16.860| [INFO] ............ Overlay map  Save Complete
+|2021-09-02|10:06:16.860| [INFO] ............ consep_test_2 Number of Nuclei : 0 
+|2021-09-02|10:06:16.953| [INFO] ............ Instance map  Save Complete
+|2021-09-02|10:06:16.953| [INFO] ............ Overlay map  Save Complete
+|2021-09-02|10:06:16.953| [INFO] ............ kumar_test_TCGA-B0-5698-01Z-00-DX1 Number of Nuclei : 0 
+|2021-09-02|10:06:17.029| [INFO] ............ Instance map  Save Complete
+|2021-09-02|10:06:17.029| [INFO] ............ Overlay map  Save Complete
+|2021-09-02|10:06:17.029| [INFO] ............ kumar_test_TCGA-E2-A14V-01Z-00-DX1 Number of Nuclei : 0 
+|2021-09-02|10:06:17.055| [INFO] ............ Instance map  Save Complete
+|2021-09-02|10:06:17.055| [INFO] ............ Overlay map  Save Complete
+|2021-09-02|10:06:17.055| [INFO] ............ tnbc_test_09_4 Number of Nuclei : 0 
+|2021-09-02|10:06:17.082| [INFO] ............ Instance map  Save Complete
+|2021-09-02|10:06:17.082| [INFO] ............ Overlay map  Save Complete
+|2021-09-02|10:06:17.082| [INFO] ............ tnbc_test_09_5 Number of Nuclei : 0 
+|2021-09-02|10:10:19.064| [INFO] .... Detect #GPUS: 1
+|2021-09-02|10:11:21.454| [INFO] ........  Result Save .... 
+|2021-09-02|10:11:21.565| [INFO] ............ Instance map  Save Complete
+|2021-09-02|10:11:21.565| [INFO] ............ Overlay map  Save Complete
+|2021-09-02|10:11:21.566| [INFO] ............ consep_test_1 Number of Nuclei : 0 
+|2021-09-02|10:11:21.670| [INFO] ............ Instance map  Save Complete
+|2021-09-02|10:11:21.670| [INFO] ............ Overlay map  Save Complete
+|2021-09-02|10:11:21.670| [INFO] ............ consep_test_2 Number of Nuclei : 0 
+|2021-09-02|10:11:21.777| [INFO] ............ Instance map  Save Complete
+|2021-09-02|10:11:21.777| [INFO] ............ Overlay map  Save Complete
+|2021-09-02|10:11:21.777| [INFO] ............ kumar_test_TCGA-B0-5698-01Z-00-DX1 Number of Nuclei : 0 
+|2021-09-02|10:11:21.901| [INFO] ............ Instance map  Save Complete
+|2021-09-02|10:11:21.901| [INFO] ............ Overlay map  Save Complete
+|2021-09-02|10:11:21.901| [INFO] ............ kumar_test_TCGA-E2-A14V-01Z-00-DX1 Number of Nuclei : 0 
+|2021-09-02|10:11:21.948| [INFO] ............ Instance map  Save Complete
+|2021-09-02|10:11:21.948| [INFO] ............ Overlay map  Save Complete
+|2021-09-02|10:11:21.948| [INFO] ............ tnbc_test_09_4 Number of Nuclei : 0 
+|2021-09-02|10:11:21.990| [INFO] ............ Instance map  Save Complete
+|2021-09-02|10:11:21.990| [INFO] ............ Overlay map  Save Complete
+|2021-09-02|10:11:21.990| [INFO] ............ tnbc_test_09_5 Number of Nuclei : 0 
+|2021-09-02|10:14:48.651| [INFO] .... Detect #GPUS: 1
+|2021-09-02|10:15:06.135| [INFO] .... Detect #GPUS: 1
+|2021-09-02|10:16:00.303| [INFO] ........  Result Save .... 
+|2021-09-02|10:16:00.418| [INFO] ............ Instance map  Save Complete
+|2021-09-02|10:16:00.418| [INFO] ............ Overlay map  Save Complete
+|2021-09-02|10:16:00.418| [INFO] ............ consep_test_1 Number of Nuclei : 815 
+|2021-09-02|10:16:00.529| [INFO] ............ Instance map  Save Complete
+|2021-09-02|10:16:00.529| [INFO] ............ Overlay map  Save Complete
+|2021-09-02|10:16:00.529| [INFO] ............ consep_test_2 Number of Nuclei : 269 
+|2021-09-02|10:16:00.660| [INFO] ............ Instance map  Save Complete
+|2021-09-02|10:16:00.661| [INFO] ............ Overlay map  Save Complete
+|2021-09-02|10:16:00.661| [INFO] ............ kumar_test_TCGA-B0-5698-01Z-00-DX1 Number of Nuclei : 136 
+|2021-09-02|10:16:00.826| [INFO] ............ Instance map  Save Complete
+|2021-09-02|10:16:00.827| [INFO] ............ Overlay map  Save Complete
+|2021-09-02|10:16:00.827| [INFO] ............ kumar_test_TCGA-E2-A14V-01Z-00-DX1 Number of Nuclei : 475 
+|2021-09-02|10:16:00.859| [INFO] ............ Instance map  Save Complete
+|2021-09-02|10:16:00.859| [INFO] ............ Overlay map  Save Complete
+|2021-09-02|10:16:00.859| [INFO] ............ tnbc_test_09_4 Number of Nuclei : 10 
+|2021-09-02|10:16:00.892| [INFO] ............ Instance map  Save Complete
+|2021-09-02|10:16:00.892| [INFO] ............ Overlay map  Save Complete
+|2021-09-02|10:16:00.892| [INFO] ............ tnbc_test_09_5 Number of Nuclei : 11 
+|2021-09-02|10:20:05.409| [INFO] .... Detect #GPUS: 1
+|2021-09-02|10:20:43.926| [INFO] ........  Result Save .... 
+|2021-09-02|10:20:44.048| [INFO] ............ Instance map  Save Complete
+|2021-09-02|10:20:44.048| [INFO] ............ Overlay map  Save Complete
+|2021-09-02|10:20:44.048| [INFO] ............ consep_test_1 Number of Nuclei : 0 
+|2021-09-02|10:20:44.165| [INFO] ............ Instance map  Save Complete
+|2021-09-02|10:20:44.166| [INFO] ............ Overlay map  Save Complete
+|2021-09-02|10:20:44.166| [INFO] ............ consep_test_2 Number of Nuclei : 0 
+|2021-09-02|10:20:44.286| [INFO] ............ Instance map  Save Complete
+|2021-09-02|10:20:44.286| [INFO] ............ Overlay map  Save Complete
+|2021-09-02|10:20:44.286| [INFO] ............ kumar_test_TCGA-B0-5698-01Z-00-DX1 Number of Nuclei : 0 
+|2021-09-02|10:20:44.396| [INFO] ............ Instance map  Save Complete
+|2021-09-02|10:20:44.396| [INFO] ............ Overlay map  Save Complete
+|2021-09-02|10:20:44.396| [INFO] ............ kumar_test_TCGA-E2-A14V-01Z-00-DX1 Number of Nuclei : 0 
+|2021-09-02|10:20:44.437| [INFO] ............ Instance map  Save Complete
+|2021-09-02|10:20:44.437| [INFO] ............ Overlay map  Save Complete
+|2021-09-02|10:20:44.438| [INFO] ............ tnbc_test_09_4 Number of Nuclei : 0 
+|2021-09-02|10:20:44.479| [INFO] ............ Instance map  Save Complete
+|2021-09-02|10:20:44.479| [INFO] ............ Overlay map  Save Complete
+|2021-09-02|10:20:44.479| [INFO] ............ tnbc_test_09_5 Number of Nuclei : 0 
+|2021-09-02|10:21:33.462| [INFO] .... Detect #GPUS: 1
+|2021-09-02|10:22:39.038| [INFO] ........  Result Save .... 
+|2021-09-02|10:22:39.139| [INFO] ............ Instance map  Save Complete
+|2021-09-02|10:22:39.139| [INFO] ............ Overlay map  Save Complete
+|2021-09-02|10:22:39.139| [INFO] ............ consep_test_1 Number of Nuclei : 0 
+|2021-09-02|10:22:39.232| [INFO] ............ Instance map  Save Complete
+|2021-09-02|10:22:39.233| [INFO] ............ Overlay map  Save Complete
+|2021-09-02|10:22:39.233| [INFO] ............ consep_test_2 Number of Nuclei : 0 
+|2021-09-02|10:22:39.330| [INFO] ............ Instance map  Save Complete
+|2021-09-02|10:22:39.330| [INFO] ............ Overlay map  Save Complete
+|2021-09-02|10:22:39.330| [INFO] ............ kumar_test_TCGA-B0-5698-01Z-00-DX1 Number of Nuclei : 0 
+|2021-09-02|10:22:39.427| [INFO] ............ Instance map  Save Complete
+|2021-09-02|10:22:39.427| [INFO] ............ Overlay map  Save Complete
+|2021-09-02|10:22:39.427| [INFO] ............ kumar_test_TCGA-E2-A14V-01Z-00-DX1 Number of Nuclei : 0 
+|2021-09-02|10:22:39.462| [INFO] ............ Instance map  Save Complete
+|2021-09-02|10:22:39.462| [INFO] ............ Overlay map  Save Complete
+|2021-09-02|10:22:39.462| [INFO] ............ tnbc_test_09_4 Number of Nuclei : 0 
+|2021-09-02|10:22:39.498| [INFO] ............ Instance map  Save Complete
+|2021-09-02|10:22:39.498| [INFO] ............ Overlay map  Save Complete
+|2021-09-02|10:22:39.498| [INFO] ............ tnbc_test_09_5 Number of Nuclei : 0 
+|2021-09-02|10:23:50.395| [INFO] .... Detect #GPUS: 1
+|2021-09-02|10:24:11.284| [INFO] .... Detect #GPUS: 1
+|2021-09-02|10:24:30.171| [INFO] .... Detect #GPUS: 1
+|2021-09-02|10:25:12.658| [INFO] ........  Result Save .... 
+|2021-09-02|10:25:12.763| [INFO] ............ Instance map  Save Complete
+|2021-09-02|10:25:12.763| [INFO] ............ Overlay map  Save Complete
+|2021-09-02|10:25:12.763| [INFO] ............ consep_test_1 Number of Nuclei : 0 
+|2021-09-02|10:25:12.856| [INFO] ............ Instance map  Save Complete
+|2021-09-02|10:25:12.856| [INFO] ............ Overlay map  Save Complete
+|2021-09-02|10:25:12.856| [INFO] ............ consep_test_2 Number of Nuclei : 0 
+|2021-09-02|10:25:12.953| [INFO] ............ Instance map  Save Complete
+|2021-09-02|10:25:12.953| [INFO] ............ Overlay map  Save Complete
+|2021-09-02|10:25:12.954| [INFO] ............ kumar_test_TCGA-B0-5698-01Z-00-DX1 Number of Nuclei : 0 
+|2021-09-02|10:25:13.046| [INFO] ............ Instance map  Save Complete
+|2021-09-02|10:25:13.046| [INFO] ............ Overlay map  Save Complete
+|2021-09-02|10:25:13.047| [INFO] ............ kumar_test_TCGA-E2-A14V-01Z-00-DX1 Number of Nuclei : 0 
+|2021-09-02|10:25:13.084| [INFO] ............ Instance map  Save Complete
+|2021-09-02|10:25:13.085| [INFO] ............ Overlay map  Save Complete
+|2021-09-02|10:25:13.085| [INFO] ............ tnbc_test_09_4 Number of Nuclei : 0 
+|2021-09-02|10:25:13.126| [INFO] ............ Instance map  Save Complete
+|2021-09-02|10:25:13.126| [INFO] ............ Overlay map  Save Complete
+|2021-09-02|10:25:13.126| [INFO] ............ tnbc_test_09_5 Number of Nuclei : 0 
+|2021-09-02|10:25:18.815| [INFO] .... Detect #GPUS: 1
+|2021-09-02|10:26:22.585| [INFO] ........  Result Save .... 
+|2021-09-02|10:26:22.695| [INFO] ............ Instance map  Save Complete
+|2021-09-02|10:26:22.695| [INFO] ............ Overlay map  Save Complete
+|2021-09-02|10:26:22.696| [INFO] ............ consep_test_1 Number of Nuclei : 815 
+|2021-09-02|10:26:22.800| [INFO] ............ Instance map  Save Complete
+|2021-09-02|10:26:22.800| [INFO] ............ Overlay map  Save Complete
+|2021-09-02|10:26:22.800| [INFO] ............ consep_test_2 Number of Nuclei : 269 
+|2021-09-02|10:26:22.914| [INFO] ............ Instance map  Save Complete
+|2021-09-02|10:26:22.914| [INFO] ............ Overlay map  Save Complete
+|2021-09-02|10:26:22.914| [INFO] ............ kumar_test_TCGA-B0-5698-01Z-00-DX1 Number of Nuclei : 136 
+|2021-09-02|10:26:23.097| [INFO] ............ Instance map  Save Complete
+|2021-09-02|10:26:23.098| [INFO] ............ Overlay map  Save Complete
+|2021-09-02|10:26:23.098| [INFO] ............ kumar_test_TCGA-E2-A14V-01Z-00-DX1 Number of Nuclei : 475 
+|2021-09-02|10:26:23.134| [INFO] ............ Instance map  Save Complete
+|2021-09-02|10:26:23.134| [INFO] ............ Overlay map  Save Complete
+|2021-09-02|10:26:23.134| [INFO] ............ tnbc_test_09_4 Number of Nuclei : 10 
+|2021-09-02|10:26:23.169| [INFO] ............ Instance map  Save Complete
+|2021-09-02|10:26:23.169| [INFO] ............ Overlay map  Save Complete
+|2021-09-02|10:26:23.169| [INFO] ............ tnbc_test_09_5 Number of Nuclei : 11 
+|2021-09-02|10:32:44.843| [INFO] .... Detect #GPUS: 1
+|2021-09-02|10:33:46.400| [INFO] ........  Result Save .... 
+|2021-09-02|10:33:46.526| [INFO] ............ Instance map  Save Complete
+|2021-09-02|10:33:46.526| [INFO] ............ Overlay map  Save Complete
+|2021-09-02|10:33:46.526| [INFO] ............ consep_test_1 Number of Nuclei : 0 
+|2021-09-02|10:33:46.648| [INFO] ............ Instance map  Save Complete
+|2021-09-02|10:33:46.648| [INFO] ............ Overlay map  Save Complete
+|2021-09-02|10:33:46.649| [INFO] ............ consep_test_2 Number of Nuclei : 0 
+|2021-09-02|10:33:46.754| [INFO] ............ Instance map  Save Complete
+|2021-09-02|10:33:46.755| [INFO] ............ Overlay map  Save Complete
+|2021-09-02|10:33:46.755| [INFO] ............ kumar_test_TCGA-B0-5698-01Z-00-DX1 Number of Nuclei : 0 
+|2021-09-02|10:33:46.850| [INFO] ............ Instance map  Save Complete
+|2021-09-02|10:33:46.850| [INFO] ............ Overlay map  Save Complete
+|2021-09-02|10:33:46.850| [INFO] ............ kumar_test_TCGA-E2-A14V-01Z-00-DX1 Number of Nuclei : 0 
+|2021-09-02|10:33:46.884| [INFO] ............ Instance map  Save Complete
+|2021-09-02|10:33:46.884| [INFO] ............ Overlay map  Save Complete
+|2021-09-02|10:33:46.884| [INFO] ............ tnbc_test_09_4 Number of Nuclei : 0 
+|2021-09-02|10:33:46.919| [INFO] ............ Instance map  Save Complete
+|2021-09-02|10:33:46.919| [INFO] ............ Overlay map  Save Complete
+|2021-09-02|10:33:46.919| [INFO] ............ tnbc_test_09_5 Number of Nuclei : 0 
+|2021-09-02|10:37:10.871| [INFO] .... Detect #GPUS: 1
+|2021-09-02|10:38:13.723| [INFO] ........  Result Save .... 
+|2021-09-02|10:38:13.827| [INFO] ............ Instance map  Save Complete
+|2021-09-02|10:38:13.827| [INFO] ............ Overlay map  Save Complete
+|2021-09-02|10:38:13.827| [INFO] ............ consep_test_1 Number of Nuclei : 0 
+|2021-09-02|10:38:13.916| [INFO] ............ Instance map  Save Complete
+|2021-09-02|10:38:13.916| [INFO] ............ Overlay map  Save Complete
+|2021-09-02|10:38:13.917| [INFO] ............ consep_test_2 Number of Nuclei : 0 
+|2021-09-02|10:38:14.010| [INFO] ............ Instance map  Save Complete
+|2021-09-02|10:38:14.010| [INFO] ............ Overlay map  Save Complete
+|2021-09-02|10:38:14.010| [INFO] ............ kumar_test_TCGA-B0-5698-01Z-00-DX1 Number of Nuclei : 0 
+|2021-09-02|10:38:14.101| [INFO] ............ Instance map  Save Complete
+|2021-09-02|10:38:14.102| [INFO] ............ Overlay map  Save Complete
+|2021-09-02|10:38:14.102| [INFO] ............ kumar_test_TCGA-E2-A14V-01Z-00-DX1 Number of Nuclei : 0 
+|2021-09-02|10:38:14.133| [INFO] ............ Instance map  Save Complete
+|2021-09-02|10:38:14.133| [INFO] ............ Overlay map  Save Complete
+|2021-09-02|10:38:14.134| [INFO] ............ tnbc_test_09_4 Number of Nuclei : 0 
+|2021-09-02|10:38:14.166| [INFO] ............ Instance map  Save Complete
+|2021-09-02|10:38:14.166| [INFO] ............ Overlay map  Save Complete
+|2021-09-02|10:38:14.166| [INFO] ............ tnbc_test_09_5 Number of Nuclei : 0 
+|2021-09-02|10:38:43.649| [INFO] .... Detect #GPUS: 1
+|2021-09-02|10:39:05.103| [INFO] .... Detect #GPUS: 1
+|2021-09-02|10:39:46.323| [INFO] ........  Result Save .... 
+|2021-09-02|10:39:46.423| [INFO] ............ Instance map  Save Complete
+|2021-09-02|10:39:46.423| [INFO] ............ Overlay map  Save Complete
+|2021-09-02|10:39:46.423| [INFO] ............ consep_test_1 Number of Nuclei : 0 
+|2021-09-02|10:39:46.516| [INFO] ............ Instance map  Save Complete
+|2021-09-02|10:39:46.516| [INFO] ............ Overlay map  Save Complete
+|2021-09-02|10:39:46.516| [INFO] ............ consep_test_2 Number of Nuclei : 0 
+|2021-09-02|10:39:46.608| [INFO] ............ Instance map  Save Complete
+|2021-09-02|10:39:46.608| [INFO] ............ Overlay map  Save Complete
+|2021-09-02|10:39:46.609| [INFO] ............ kumar_test_TCGA-B0-5698-01Z-00-DX1 Number of Nuclei : 0 
+|2021-09-02|10:39:46.700| [INFO] ............ Instance map  Save Complete
+|2021-09-02|10:39:46.700| [INFO] ............ Overlay map  Save Complete
+|2021-09-02|10:39:46.700| [INFO] ............ kumar_test_TCGA-E2-A14V-01Z-00-DX1 Number of Nuclei : 0 
+|2021-09-02|10:39:46.730| [INFO] ............ Instance map  Save Complete
+|2021-09-02|10:39:46.730| [INFO] ............ Overlay map  Save Complete
+|2021-09-02|10:39:46.731| [INFO] ............ tnbc_test_09_4 Number of Nuclei : 0 
+|2021-09-02|10:39:46.762| [INFO] ............ Instance map  Save Complete
+|2021-09-02|10:39:46.762| [INFO] ............ Overlay map  Save Complete
+|2021-09-02|10:39:46.762| [INFO] ............ tnbc_test_09_5 Number of Nuclei : 0 
+|2021-09-02|10:40:41.457| [INFO] .... Detect #GPUS: 1
+|2021-09-02|10:41:28.999| [INFO] ........  Result Save .... 
+|2021-09-02|10:41:29.125| [INFO] ............ Instance map  Save Complete
+|2021-09-02|10:41:29.125| [INFO] ............ Overlay map  Save Complete
+|2021-09-02|10:41:29.125| [INFO] ............ consep_test_1 Number of Nuclei : 0 
+|2021-09-02|10:41:29.241| [INFO] ............ Instance map  Save Complete
+|2021-09-02|10:41:29.242| [INFO] ............ Overlay map  Save Complete
+|2021-09-02|10:41:29.242| [INFO] ............ consep_test_2 Number of Nuclei : 0 
+|2021-09-02|10:41:29.334| [INFO] ............ Instance map  Save Complete
+|2021-09-02|10:41:29.334| [INFO] ............ Overlay map  Save Complete
+|2021-09-02|10:41:29.334| [INFO] ............ kumar_test_TCGA-B0-5698-01Z-00-DX1 Number of Nuclei : 0 
+|2021-09-02|10:41:29.427| [INFO] ............ Instance map  Save Complete
+|2021-09-02|10:41:29.428| [INFO] ............ Overlay map  Save Complete
+|2021-09-02|10:41:29.428| [INFO] ............ kumar_test_TCGA-E2-A14V-01Z-00-DX1 Number of Nuclei : 0 
+|2021-09-02|10:41:29.459| [INFO] ............ Instance map  Save Complete
+|2021-09-02|10:41:29.459| [INFO] ............ Overlay map  Save Complete
+|2021-09-02|10:41:29.459| [INFO] ............ tnbc_test_09_4 Number of Nuclei : 0 
+|2021-09-02|10:41:29.491| [INFO] ............ Instance map  Save Complete
+|2021-09-02|10:41:29.491| [INFO] ............ Overlay map  Save Complete
+|2021-09-02|10:41:29.491| [INFO] ............ tnbc_test_09_5 Number of Nuclei : 0 
+|2021-09-02|10:46:46.745| [INFO] .... Detect #GPUS: 1
+|2021-09-02|10:47:42.219| [INFO] ........  Result Save .... 
+|2021-09-02|10:47:42.325| [INFO] ............ Instance map  Save Complete
+|2021-09-02|10:47:42.325| [INFO] ............ Overlay map  Save Complete
+|2021-09-02|10:47:42.325| [INFO] ............ consep_test_1 Number of Nuclei : 0 
+|2021-09-02|10:47:42.420| [INFO] ............ Instance map  Save Complete
+|2021-09-02|10:47:42.420| [INFO] ............ Overlay map  Save Complete
+|2021-09-02|10:47:42.420| [INFO] ............ consep_test_2 Number of Nuclei : 0 
+|2021-09-02|10:47:42.540| [INFO] ............ Instance map  Save Complete
+|2021-09-02|10:47:42.541| [INFO] ............ Overlay map  Save Complete
+|2021-09-02|10:47:42.541| [INFO] ............ kumar_test_TCGA-B0-5698-01Z-00-DX1 Number of Nuclei : 0 
+|2021-09-02|10:47:42.670| [INFO] ............ Instance map  Save Complete
+|2021-09-02|10:47:42.670| [INFO] ............ Overlay map  Save Complete
+|2021-09-02|10:47:42.670| [INFO] ............ kumar_test_TCGA-E2-A14V-01Z-00-DX1 Number of Nuclei : 0 
+|2021-09-02|10:47:42.713| [INFO] ............ Instance map  Save Complete
+|2021-09-02|10:47:42.714| [INFO] ............ Overlay map  Save Complete
+|2021-09-02|10:47:42.714| [INFO] ............ tnbc_test_09_4 Number of Nuclei : 0 
+|2021-09-02|10:47:42.754| [INFO] ............ Instance map  Save Complete
+|2021-09-02|10:47:42.754| [INFO] ............ Overlay map  Save Complete
+|2021-09-02|10:47:42.755| [INFO] ............ tnbc_test_09_5 Number of Nuclei : 0 
+|2021-09-02|10:49:37.813| [INFO] .... Detect #GPUS: 1
+|2021-09-02|10:50:17.305| [INFO] ........  Result Save .... 
+|2021-09-02|10:50:17.412| [INFO] ............ Instance map  Save Complete
+|2021-09-02|10:50:17.412| [INFO] ............ Overlay map  Save Complete
+|2021-09-02|10:50:17.412| [INFO] ............ consep_test_1 Number of Nuclei : 0 
+|2021-09-02|10:50:17.503| [INFO] ............ Instance map  Save Complete
+|2021-09-02|10:50:17.503| [INFO] ............ Overlay map  Save Complete
+|2021-09-02|10:50:17.503| [INFO] ............ consep_test_2 Number of Nuclei : 0 
+|2021-09-02|10:50:17.598| [INFO] ............ Instance map  Save Complete
+|2021-09-02|10:50:17.598| [INFO] ............ Overlay map  Save Complete
+|2021-09-02|10:50:17.599| [INFO] ............ kumar_test_TCGA-B0-5698-01Z-00-DX1 Number of Nuclei : 0 
+|2021-09-02|10:50:17.692| [INFO] ............ Instance map  Save Complete
+|2021-09-02|10:50:17.692| [INFO] ............ Overlay map  Save Complete
+|2021-09-02|10:50:17.692| [INFO] ............ kumar_test_TCGA-E2-A14V-01Z-00-DX1 Number of Nuclei : 0 
+|2021-09-02|10:50:17.726| [INFO] ............ Instance map  Save Complete
+|2021-09-02|10:50:17.726| [INFO] ............ Overlay map  Save Complete
+|2021-09-02|10:50:17.726| [INFO] ............ tnbc_test_09_4 Number of Nuclei : 0 
+|2021-09-02|10:50:17.760| [INFO] ............ Instance map  Save Complete
+|2021-09-02|10:50:17.760| [INFO] ............ Overlay map  Save Complete
+|2021-09-02|10:50:17.760| [INFO] ............ tnbc_test_09_5 Number of Nuclei : 0 
+|2021-09-02|10:52:36.767| [INFO] .... Detect #GPUS: 1
+|2021-09-02|10:52:59.003| [INFO] .... Detect #GPUS: 1
+|2021-09-02|10:53:38.009| [INFO] ........  Result Save .... 
+|2021-09-02|10:53:38.114| [INFO] ............ Instance map  Save Complete
+|2021-09-02|10:53:38.114| [INFO] ............ Overlay map  Save Complete
+|2021-09-02|10:53:38.115| [INFO] ............ consep_test_1 Number of Nuclei : 0 
+|2021-09-02|10:53:38.226| [INFO] ............ Instance map  Save Complete
+|2021-09-02|10:53:38.227| [INFO] ............ Overlay map  Save Complete
+|2021-09-02|10:53:38.227| [INFO] ............ consep_test_2 Number of Nuclei : 0 
+|2021-09-02|10:53:38.350| [INFO] ............ Instance map  Save Complete
+|2021-09-02|10:53:38.350| [INFO] ............ Overlay map  Save Complete
+|2021-09-02|10:53:38.351| [INFO] ............ kumar_test_TCGA-B0-5698-01Z-00-DX1 Number of Nuclei : 0 
+|2021-09-02|10:53:38.464| [INFO] ............ Instance map  Save Complete
+|2021-09-02|10:53:38.464| [INFO] ............ Overlay map  Save Complete
+|2021-09-02|10:53:38.464| [INFO] ............ kumar_test_TCGA-E2-A14V-01Z-00-DX1 Number of Nuclei : 0 
+|2021-09-02|10:53:38.497| [INFO] ............ Instance map  Save Complete
+|2021-09-02|10:53:38.497| [INFO] ............ Overlay map  Save Complete
+|2021-09-02|10:53:38.497| [INFO] ............ tnbc_test_09_4 Number of Nuclei : 0 
+|2021-09-02|10:53:38.529| [INFO] ............ Instance map  Save Complete
+|2021-09-02|10:53:38.529| [INFO] ............ Overlay map  Save Complete
+|2021-09-02|10:53:38.529| [INFO] ............ tnbc_test_09_5 Number of Nuclei : 0 
+|2021-09-02|10:56:19.330| [INFO] .... Detect #GPUS: 1
+|2021-09-02|10:56:43.341| [INFO] .... Detect #GPUS: 1
+|2021-09-02|10:59:09.675| [INFO] .... Detect #GPUS: 1
+|2021-09-02|11:00:11.177| [INFO] .... Detect #GPUS: 1
+|2021-09-02|11:00:37.489| [INFO] .... Detect #GPUS: 1
+|2021-09-02|11:01:07.351| [INFO] .... Detect #GPUS: 1
+|2021-09-02|11:02:10.769| [INFO] .... Detect #GPUS: 1
+|2021-09-02|11:02:50.864| [INFO] .... Detect #GPUS: 1
+|2021-09-02|11:03:40.134| [INFO] ........  Result Save .... 
+|2021-09-02|11:03:40.238| [INFO] ............ Instance map  Save Complete
+|2021-09-02|11:03:40.238| [INFO] ............ Overlay map  Save Complete
+|2021-09-02|11:03:40.238| [INFO] ............ consep_test_1 Number of Nuclei : 0 
+|2021-09-02|11:03:40.330| [INFO] ............ Instance map  Save Complete
+|2021-09-02|11:03:40.330| [INFO] ............ Overlay map  Save Complete
+|2021-09-02|11:03:40.330| [INFO] ............ consep_test_2 Number of Nuclei : 0 
+|2021-09-02|11:03:40.437| [INFO] ............ Instance map  Save Complete
+|2021-09-02|11:03:40.437| [INFO] ............ Overlay map  Save Complete
+|2021-09-02|11:03:40.437| [INFO] ............ kumar_test_TCGA-B0-5698-01Z-00-DX1 Number of Nuclei : 0 
+|2021-09-02|11:03:40.562| [INFO] ............ Instance map  Save Complete
+|2021-09-02|11:03:40.563| [INFO] ............ Overlay map  Save Complete
+|2021-09-02|11:03:40.563| [INFO] ............ kumar_test_TCGA-E2-A14V-01Z-00-DX1 Number of Nuclei : 0 
+|2021-09-02|11:03:40.602| [INFO] ............ Instance map  Save Complete
+|2021-09-02|11:03:40.603| [INFO] ............ Overlay map  Save Complete
+|2021-09-02|11:03:40.603| [INFO] ............ tnbc_test_09_4 Number of Nuclei : 0 
+|2021-09-02|11:03:40.644| [INFO] ............ Instance map  Save Complete
+|2021-09-02|11:03:40.645| [INFO] ............ Overlay map  Save Complete
+|2021-09-02|11:03:40.645| [INFO] ............ tnbc_test_09_5 Number of Nuclei : 0 
+|2021-09-02|11:05:24.583| [INFO] .... Detect #GPUS: 1
+|2021-09-02|11:06:06.368| [INFO] .... Detect #GPUS: 1
+|2021-09-02|11:10:16.086| [INFO] .... Detect #GPUS: 1
+|2021-09-02|11:10:44.839| [INFO] .... Detect #GPUS: 1
+|2021-09-02|11:11:38.305| [INFO] .... Detect #GPUS: 1
+|2021-09-02|11:12:28.411| [INFO] .... Detect #GPUS: 1
+|2021-09-02|11:13:09.757| [INFO] ........  Result Save .... 
+|2021-09-02|11:13:09.862| [INFO] ............ Instance map  Save Complete
+|2021-09-02|11:13:09.863| [INFO] ............ Overlay map  Save Complete
+|2021-09-02|11:13:09.863| [INFO] ............ consep_test_1 Number of Nuclei : 0 
+|2021-09-02|11:13:09.983| [INFO] ............ Instance map  Save Complete
+|2021-09-02|11:13:09.983| [INFO] ............ Overlay map  Save Complete
+|2021-09-02|11:13:09.983| [INFO] ............ consep_test_2 Number of Nuclei : 0 
+|2021-09-02|11:13:10.104| [INFO] ............ Instance map  Save Complete
+|2021-09-02|11:13:10.105| [INFO] ............ Overlay map  Save Complete
+|2021-09-02|11:13:10.105| [INFO] ............ kumar_test_TCGA-B0-5698-01Z-00-DX1 Number of Nuclei : 0 
+|2021-09-02|11:13:10.235| [INFO] ............ Instance map  Save Complete
+|2021-09-02|11:13:10.236| [INFO] ............ Overlay map  Save Complete
+|2021-09-02|11:13:10.236| [INFO] ............ kumar_test_TCGA-E2-A14V-01Z-00-DX1 Number of Nuclei : 0 
+|2021-09-02|11:13:10.317| [INFO] ............ Instance map  Save Complete
+|2021-09-02|11:13:10.317| [INFO] ............ Overlay map  Save Complete
+|2021-09-02|11:13:10.317| [INFO] ............ tnbc_test_09_4 Number of Nuclei : 0 
+|2021-09-02|11:13:10.352| [INFO] ............ Instance map  Save Complete
+|2021-09-02|11:13:10.352| [INFO] ............ Overlay map  Save Complete
+|2021-09-02|11:13:10.353| [INFO] ............ tnbc_test_09_5 Number of Nuclei : 0 
+|2021-09-02|11:13:24.787| [INFO] .... Detect #GPUS: 1
+|2021-09-02|11:14:30.139| [INFO] ........  Result Save .... 
+|2021-09-02|11:14:30.252| [INFO] ............ Instance map  Save Complete
+|2021-09-02|11:14:30.252| [INFO] ............ Overlay map  Save Complete
+|2021-09-02|11:14:30.252| [INFO] ............ consep_test_1 Number of Nuclei : 0 
+|2021-09-02|11:14:30.356| [INFO] ............ Instance map  Save Complete
+|2021-09-02|11:14:30.356| [INFO] ............ Overlay map  Save Complete
+|2021-09-02|11:14:30.356| [INFO] ............ consep_test_2 Number of Nuclei : 0 
+|2021-09-02|11:14:30.455| [INFO] ............ Instance map  Save Complete
+|2021-09-02|11:14:30.456| [INFO] ............ Overlay map  Save Complete
+|2021-09-02|11:14:30.456| [INFO] ............ kumar_test_TCGA-B0-5698-01Z-00-DX1 Number of Nuclei : 0 
+|2021-09-02|11:14:30.583| [INFO] ............ Instance map  Save Complete
+|2021-09-02|11:14:30.583| [INFO] ............ Overlay map  Save Complete
+|2021-09-02|11:14:30.583| [INFO] ............ kumar_test_TCGA-E2-A14V-01Z-00-DX1 Number of Nuclei : 0 
+|2021-09-02|11:14:30.617| [INFO] ............ Instance map  Save Complete
+|2021-09-02|11:14:30.617| [INFO] ............ Overlay map  Save Complete
+|2021-09-02|11:14:30.617| [INFO] ............ tnbc_test_09_4 Number of Nuclei : 0 
+|2021-09-02|11:14:30.654| [INFO] ............ Instance map  Save Complete
+|2021-09-02|11:14:30.655| [INFO] ............ Overlay map  Save Complete
+|2021-09-02|11:14:30.655| [INFO] ............ tnbc_test_09_5 Number of Nuclei : 0 
+|2021-09-02|11:15:30.578| [INFO] .... Detect #GPUS: 1
+|2021-09-02|11:16:17.863| [INFO] ........  Result Save .... 
+|2021-09-02|11:16:18.004| [INFO] ............ Instance map  Save Complete
+|2021-09-02|11:16:18.004| [INFO] ............ Overlay map  Save Complete
+|2021-09-02|11:16:18.004| [INFO] ............ consep_test_1 Number of Nuclei : 815 
+|2021-09-02|11:16:18.112| [INFO] ............ Instance map  Save Complete
+|2021-09-02|11:16:18.112| [INFO] ............ Overlay map  Save Complete
+|2021-09-02|11:16:18.113| [INFO] ............ consep_test_2 Number of Nuclei : 269 
+|2021-09-02|11:16:18.235| [INFO] ............ Instance map  Save Complete
+|2021-09-02|11:16:18.236| [INFO] ............ Overlay map  Save Complete
+|2021-09-02|11:16:18.236| [INFO] ............ kumar_test_TCGA-B0-5698-01Z-00-DX1 Number of Nuclei : 136 
+|2021-09-02|11:16:18.397| [INFO] ............ Instance map  Save Complete
+|2021-09-02|11:16:18.398| [INFO] ............ Overlay map  Save Complete
+|2021-09-02|11:16:18.398| [INFO] ............ kumar_test_TCGA-E2-A14V-01Z-00-DX1 Number of Nuclei : 475 
+|2021-09-02|11:16:18.430| [INFO] ............ Instance map  Save Complete
+|2021-09-02|11:16:18.431| [INFO] ............ Overlay map  Save Complete
+|2021-09-02|11:16:18.431| [INFO] ............ tnbc_test_09_4 Number of Nuclei : 10 
+|2021-09-02|11:16:18.463| [INFO] ............ Instance map  Save Complete
+|2021-09-02|11:16:18.464| [INFO] ............ Overlay map  Save Complete
+|2021-09-02|11:16:18.464| [INFO] ............ tnbc_test_09_5 Number of Nuclei : 11 
+|2021-09-02|11:16:49.710| [INFO] .... Detect #GPUS: 1
+|2021-09-02|11:17:32.377| [INFO] ........  Result Save .... 
+|2021-09-02|11:17:32.492| [INFO] ............ Instance map  Save Complete
+|2021-09-02|11:17:32.493| [INFO] ............ Overlay map  Save Complete
+|2021-09-02|11:17:32.493| [INFO] ............ consep_test_1 Number of Nuclei : 815 
+|2021-09-02|11:17:32.595| [INFO] ............ Instance map  Save Complete
+|2021-09-02|11:17:32.595| [INFO] ............ Overlay map  Save Complete
+|2021-09-02|11:17:32.595| [INFO] ............ consep_test_2 Number of Nuclei : 269 
+|2021-09-02|11:17:32.697| [INFO] ............ Instance map  Save Complete
+|2021-09-02|11:17:32.697| [INFO] ............ Overlay map  Save Complete
+|2021-09-02|11:17:32.697| [INFO] ............ kumar_test_TCGA-B0-5698-01Z-00-DX1 Number of Nuclei : 136 
+|2021-09-02|11:17:32.839| [INFO] ............ Instance map  Save Complete
+|2021-09-02|11:17:32.840| [INFO] ............ Overlay map  Save Complete
+|2021-09-02|11:17:32.840| [INFO] ............ kumar_test_TCGA-E2-A14V-01Z-00-DX1 Number of Nuclei : 475 
+|2021-09-02|11:17:32.876| [INFO] ............ Instance map  Save Complete
+|2021-09-02|11:17:32.876| [INFO] ............ Overlay map  Save Complete
+|2021-09-02|11:17:32.876| [INFO] ............ tnbc_test_09_4 Number of Nuclei : 10 
+|2021-09-02|11:17:32.912| [INFO] ............ Instance map  Save Complete
+|2021-09-02|11:17:32.913| [INFO] ............ Overlay map  Save Complete
+|2021-09-02|11:17:32.913| [INFO] ............ tnbc_test_09_5 Number of Nuclei : 11 
+|2021-09-02|11:19:37.851| [INFO] .... Detect #GPUS: 1
+|2021-09-02|11:19:47.935| [INFO] .... Detect #GPUS: 1
+|2021-09-02|11:20:28.165| [INFO] ........  Result Save .... 
+|2021-09-02|11:20:28.319| [INFO] ............ Instance map  Save Complete
+|2021-09-02|11:20:28.320| [INFO] ............ Overlay map  Save Complete
+|2021-09-02|11:20:28.320| [INFO] ............ consep_test_1 Number of Nuclei : 815 
+|2021-09-02|11:20:28.441| [INFO] ............ Instance map  Save Complete
+|2021-09-02|11:20:28.441| [INFO] ............ Overlay map  Save Complete
+|2021-09-02|11:20:28.441| [INFO] ............ consep_test_2 Number of Nuclei : 269 
+|2021-09-02|11:20:28.539| [INFO] ............ Instance map  Save Complete
+|2021-09-02|11:20:28.539| [INFO] ............ Overlay map  Save Complete
+|2021-09-02|11:20:28.539| [INFO] ............ kumar_test_TCGA-B0-5698-01Z-00-DX1 Number of Nuclei : 136 
+|2021-09-02|11:20:28.712| [INFO] ............ Instance map  Save Complete
+|2021-09-02|11:20:28.712| [INFO] ............ Overlay map  Save Complete
+|2021-09-02|11:20:28.712| [INFO] ............ kumar_test_TCGA-E2-A14V-01Z-00-DX1 Number of Nuclei : 475 
+|2021-09-02|11:20:28.752| [INFO] ............ Instance map  Save Complete
+|2021-09-02|11:20:28.752| [INFO] ............ Overlay map  Save Complete
+|2021-09-02|11:20:28.753| [INFO] ............ tnbc_test_09_4 Number of Nuclei : 10 
+|2021-09-02|11:20:28.799| [INFO] ............ Instance map  Save Complete
+|2021-09-02|11:20:28.799| [INFO] ............ Overlay map  Save Complete
+|2021-09-02|11:20:28.800| [INFO] ............ tnbc_test_09_5 Number of Nuclei : 11 
+|2021-09-02|11:21:01.451| [INFO] .... Detect #GPUS: 1
+|2021-09-02|11:21:41.978| [INFO] .... Detect #GPUS: 1
+|2021-09-02|11:22:39.876| [INFO] ........  Result Save .... 
+|2021-09-02|11:22:39.975| [INFO] ............ Instance map  Save Complete
+|2021-09-02|11:22:39.975| [INFO] ............ Overlay map  Save Complete
+|2021-09-02|11:22:39.975| [INFO] ............ consep_test_1 Number of Nuclei : 0 
+|2021-09-02|11:22:40.065| [INFO] ............ Instance map  Save Complete
+|2021-09-02|11:22:40.065| [INFO] ............ Overlay map  Save Complete
+|2021-09-02|11:22:40.065| [INFO] ............ consep_test_2 Number of Nuclei : 0 
+|2021-09-02|11:22:40.177| [INFO] ............ Instance map  Save Complete
+|2021-09-02|11:22:40.177| [INFO] ............ Overlay map  Save Complete
+|2021-09-02|11:22:40.177| [INFO] ............ kumar_test_TCGA-B0-5698-01Z-00-DX1 Number of Nuclei : 0 
+|2021-09-02|11:22:40.303| [INFO] ............ Instance map  Save Complete
+|2021-09-02|11:22:40.303| [INFO] ............ Overlay map  Save Complete
+|2021-09-02|11:22:40.304| [INFO] ............ kumar_test_TCGA-E2-A14V-01Z-00-DX1 Number of Nuclei : 0 
+|2021-09-02|11:22:40.346| [INFO] ............ Instance map  Save Complete
+|2021-09-02|11:22:40.347| [INFO] ............ Overlay map  Save Complete
+|2021-09-02|11:22:40.347| [INFO] ............ tnbc_test_09_4 Number of Nuclei : 0 
+|2021-09-02|11:22:40.386| [INFO] ............ Instance map  Save Complete
+|2021-09-02|11:22:40.387| [INFO] ............ Overlay map  Save Complete
+|2021-09-02|11:22:40.387| [INFO] ............ tnbc_test_09_5 Number of Nuclei : 0 
+|2021-09-02|12:23:21.605| [INFO] .... Detect #GPUS: 1
+|2021-09-02|12:25:15.057| [INFO] ........  Result Save .... 
+|2021-09-02|12:25:15.170| [INFO] ............ Instance map  Save Complete
+|2021-09-02|12:25:15.170| [INFO] ............ Overlay map  Save Complete
+|2021-09-02|12:25:15.170| [INFO] ............ consep_test_1 Number of Nuclei : 0 
+|2021-09-02|12:25:15.295| [INFO] ............ Instance map  Save Complete
+|2021-09-02|12:25:15.295| [INFO] ............ Overlay map  Save Complete
+|2021-09-02|12:25:15.296| [INFO] ............ consep_test_2 Number of Nuclei : 0 
+|2021-09-02|12:25:15.400| [INFO] ............ Instance map  Save Complete
+|2021-09-02|12:25:15.400| [INFO] ............ Overlay map  Save Complete
+|2021-09-02|12:25:15.401| [INFO] ............ kumar_test_TCGA-B0-5698-01Z-00-DX1 Number of Nuclei : 0 
+|2021-09-02|12:25:15.494| [INFO] ............ Instance map  Save Complete
+|2021-09-02|12:25:15.494| [INFO] ............ Overlay map  Save Complete
+|2021-09-02|12:25:15.494| [INFO] ............ kumar_test_TCGA-E2-A14V-01Z-00-DX1 Number of Nuclei : 0 
+|2021-09-02|12:25:15.526| [INFO] ............ Instance map  Save Complete
+|2021-09-02|12:25:15.526| [INFO] ............ Overlay map  Save Complete
+|2021-09-02|12:25:15.526| [INFO] ............ tnbc_test_09_4 Number of Nuclei : 0 
+|2021-09-02|12:25:15.559| [INFO] ............ Instance map  Save Complete
+|2021-09-02|12:25:15.559| [INFO] ............ Overlay map  Save Complete
+|2021-09-02|12:25:15.559| [INFO] ............ tnbc_test_09_5 Number of Nuclei : 0 
+|2021-09-02|12:26:13.416| [INFO] .... Detect #GPUS: 1
+|2021-09-02|12:27:01.553| [INFO] ........  Result Save .... 
+|2021-09-02|12:27:01.645| [INFO] ............ Instance map  Save Complete
+|2021-09-02|12:27:01.645| [INFO] ............ Overlay map  Save Complete
+|2021-09-02|12:27:01.645| [INFO] ............ consep_test_1 Number of Nuclei : 0 
+|2021-09-02|12:27:01.737| [INFO] ............ Instance map  Save Complete
+|2021-09-02|12:27:01.737| [INFO] ............ Overlay map  Save Complete
+|2021-09-02|12:27:01.738| [INFO] ............ consep_test_2 Number of Nuclei : 0 
+|2021-09-02|12:27:01.830| [INFO] ............ Instance map  Save Complete
+|2021-09-02|12:27:01.831| [INFO] ............ Overlay map  Save Complete
+|2021-09-02|12:27:01.831| [INFO] ............ kumar_test_TCGA-B0-5698-01Z-00-DX1 Number of Nuclei : 0 
+|2021-09-02|12:27:01.921| [INFO] ............ Instance map  Save Complete
+|2021-09-02|12:27:01.921| [INFO] ............ Overlay map  Save Complete
+|2021-09-02|12:27:01.921| [INFO] ............ kumar_test_TCGA-E2-A14V-01Z-00-DX1 Number of Nuclei : 0 
+|2021-09-02|12:27:01.953| [INFO] ............ Instance map  Save Complete
+|2021-09-02|12:27:01.953| [INFO] ............ Overlay map  Save Complete
+|2021-09-02|12:27:01.953| [INFO] ............ tnbc_test_09_4 Number of Nuclei : 0 
+|2021-09-02|12:27:01.984| [INFO] ............ Instance map  Save Complete
+|2021-09-02|12:27:01.984| [INFO] ............ Overlay map  Save Complete
+|2021-09-02|12:27:01.984| [INFO] ............ tnbc_test_09_5 Number of Nuclei : 0 
+|2021-09-02|12:42:22.572| [INFO] .... Detect #GPUS: 1
+|2021-09-02|12:43:39.580| [INFO] ........  Result Save .... 
+|2021-09-02|12:43:39.679| [INFO] ............ Instance map  Save Complete
+|2021-09-02|12:43:39.679| [INFO] ............ Overlay map  Save Complete
+|2021-09-02|12:43:39.679| [INFO] ............ consep_test_1 Number of Nuclei : 0 
+|2021-09-02|12:43:39.785| [INFO] ............ Instance map  Save Complete
+|2021-09-02|12:43:39.785| [INFO] ............ Overlay map  Save Complete
+|2021-09-02|12:43:39.785| [INFO] ............ consep_test_2 Number of Nuclei : 0 
+|2021-09-02|12:43:39.880| [INFO] ............ Instance map  Save Complete
+|2021-09-02|12:43:39.881| [INFO] ............ Overlay map  Save Complete
+|2021-09-02|12:43:39.881| [INFO] ............ kumar_test_TCGA-B0-5698-01Z-00-DX1 Number of Nuclei : 0 
+|2021-09-02|12:43:39.972| [INFO] ............ Instance map  Save Complete
+|2021-09-02|12:43:39.972| [INFO] ............ Overlay map  Save Complete
+|2021-09-02|12:43:39.973| [INFO] ............ kumar_test_TCGA-E2-A14V-01Z-00-DX1 Number of Nuclei : 0 
+|2021-09-02|12:43:40.005| [INFO] ............ Instance map  Save Complete
+|2021-09-02|12:43:40.005| [INFO] ............ Overlay map  Save Complete
+|2021-09-02|12:43:40.005| [INFO] ............ tnbc_test_09_4 Number of Nuclei : 0 
+|2021-09-02|12:43:40.037| [INFO] ............ Instance map  Save Complete
+|2021-09-02|12:43:40.038| [INFO] ............ Overlay map  Save Complete
+|2021-09-02|12:43:40.038| [INFO] ............ tnbc_test_09_5 Number of Nuclei : 0 
+|2021-09-02|12:45:57.993| [INFO] .... Detect #GPUS: 1
+|2021-09-02|12:46:26.416| [INFO] .... Detect #GPUS: 1
+|2021-09-02|12:47:31.461| [INFO] ........  Result Save .... 
+|2021-09-02|12:47:31.557| [INFO] ............ Instance map  Save Complete
+|2021-09-02|12:47:31.557| [INFO] ............ Overlay map  Save Complete
+|2021-09-02|12:47:31.557| [INFO] ............ consep_test_1 Number of Nuclei : 0 
+|2021-09-02|12:47:31.648| [INFO] ............ Instance map  Save Complete
+|2021-09-02|12:47:31.648| [INFO] ............ Overlay map  Save Complete
+|2021-09-02|12:47:31.648| [INFO] ............ consep_test_2 Number of Nuclei : 0 
+|2021-09-02|12:47:31.744| [INFO] ............ Instance map  Save Complete
+|2021-09-02|12:47:31.745| [INFO] ............ Overlay map  Save Complete
+|2021-09-02|12:47:31.745| [INFO] ............ kumar_test_TCGA-B0-5698-01Z-00-DX1 Number of Nuclei : 0 
+|2021-09-02|12:47:31.857| [INFO] ............ Instance map  Save Complete
+|2021-09-02|12:47:31.857| [INFO] ............ Overlay map  Save Complete
+|2021-09-02|12:47:31.858| [INFO] ............ kumar_test_TCGA-E2-A14V-01Z-00-DX1 Number of Nuclei : 0 
+|2021-09-02|12:47:31.891| [INFO] ............ Instance map  Save Complete
+|2021-09-02|12:47:31.891| [INFO] ............ Overlay map  Save Complete
+|2021-09-02|12:47:31.891| [INFO] ............ tnbc_test_09_4 Number of Nuclei : 0 
+|2021-09-02|12:47:31.922| [INFO] ............ Instance map  Save Complete
+|2021-09-02|12:47:31.922| [INFO] ............ Overlay map  Save Complete
+|2021-09-02|12:47:31.923| [INFO] ............ tnbc_test_09_5 Number of Nuclei : 0 
+|2021-09-02|12:49:29.947| [INFO] .... Detect #GPUS: 1
+|2021-09-02|12:50:20.546| [INFO] ........  Result Save .... 
+|2021-09-02|12:50:20.658| [INFO] ............ Instance map  Save Complete
+|2021-09-02|12:50:20.658| [INFO] ............ Overlay map  Save Complete
+|2021-09-02|12:50:20.658| [INFO] ............ consep_test_1 Number of Nuclei : 0 
+|2021-09-02|12:50:20.748| [INFO] ............ Instance map  Save Complete
+|2021-09-02|12:50:20.748| [INFO] ............ Overlay map  Save Complete
+|2021-09-02|12:50:20.748| [INFO] ............ consep_test_2 Number of Nuclei : 0 
+|2021-09-02|12:50:20.841| [INFO] ............ Instance map  Save Complete
+|2021-09-02|12:50:20.841| [INFO] ............ Overlay map  Save Complete
+|2021-09-02|12:50:20.841| [INFO] ............ kumar_test_TCGA-B0-5698-01Z-00-DX1 Number of Nuclei : 0 
+|2021-09-02|12:50:20.933| [INFO] ............ Instance map  Save Complete
+|2021-09-02|12:50:20.933| [INFO] ............ Overlay map  Save Complete
+|2021-09-02|12:50:20.933| [INFO] ............ kumar_test_TCGA-E2-A14V-01Z-00-DX1 Number of Nuclei : 0 
+|2021-09-02|12:50:20.963| [INFO] ............ Instance map  Save Complete
+|2021-09-02|12:50:20.963| [INFO] ............ Overlay map  Save Complete
+|2021-09-02|12:50:20.963| [INFO] ............ tnbc_test_09_4 Number of Nuclei : 0 
+|2021-09-02|12:50:20.993| [INFO] ............ Instance map  Save Complete
+|2021-09-02|12:50:20.993| [INFO] ............ Overlay map  Save Complete
+|2021-09-02|12:50:20.993| [INFO] ............ tnbc_test_09_5 Number of Nuclei : 0 
+|2021-09-02|12:51:46.196| [INFO] .... Detect #GPUS: 1
+|2021-09-02|12:53:03.646| [INFO] ........  Result Save .... 
+|2021-09-02|12:53:03.759| [INFO] ............ Instance map  Save Complete
+|2021-09-02|12:53:03.760| [INFO] ............ Overlay map  Save Complete
+|2021-09-02|12:53:03.760| [INFO] ............ consep_test_1 Number of Nuclei : 803 
+|2021-09-02|12:53:03.900| [INFO] ............ Instance map  Save Complete
+|2021-09-02|12:53:03.900| [INFO] ............ Overlay map  Save Complete
+|2021-09-02|12:53:03.900| [INFO] ............ consep_test_2 Number of Nuclei : 315 
+|2021-09-02|12:53:04.017| [INFO] ............ Instance map  Save Complete
+|2021-09-02|12:53:04.017| [INFO] ............ Overlay map  Save Complete
+|2021-09-02|12:53:04.017| [INFO] ............ kumar_test_TCGA-B0-5698-01Z-00-DX1 Number of Nuclei : 323 
+|2021-09-02|12:53:04.158| [INFO] ............ Instance map  Save Complete
+|2021-09-02|12:53:04.158| [INFO] ............ Overlay map  Save Complete
+|2021-09-02|12:53:04.158| [INFO] ............ kumar_test_TCGA-E2-A14V-01Z-00-DX1 Number of Nuclei : 391 
+|2021-09-02|12:53:04.201| [INFO] ............ Instance map  Save Complete
+|2021-09-02|12:53:04.201| [INFO] ............ Overlay map  Save Complete
+|2021-09-02|12:53:04.201| [INFO] ............ tnbc_test_09_4 Number of Nuclei : 85 
+|2021-09-02|12:53:04.242| [INFO] ............ Instance map  Save Complete
+|2021-09-02|12:53:04.242| [INFO] ............ Overlay map  Save Complete
+|2021-09-02|12:53:04.242| [INFO] ............ tnbc_test_09_5 Number of Nuclei : 57 
+|2021-09-02|12:59:02.395| [INFO] .... Detect #GPUS: 1
+|2021-09-02|13:00:20.414| [INFO] ........  Result Save .... 
+|2021-09-02|13:00:20.531| [INFO] ............ Instance map  Save Complete
+|2021-09-02|13:00:20.531| [INFO] ............ Overlay map  Save Complete
+|2021-09-02|13:00:20.532| [INFO] ............ consep_test_1 Number of Nuclei : 813 
+|2021-09-02|13:00:20.696| [INFO] ............ Instance map  Save Complete
+|2021-09-02|13:00:20.696| [INFO] ............ Overlay map  Save Complete
+|2021-09-02|13:00:20.696| [INFO] ............ consep_test_2 Number of Nuclei : 307 
+|2021-09-02|13:00:20.801| [INFO] ............ Instance map  Save Complete
+|2021-09-02|13:00:20.802| [INFO] ............ Overlay map  Save Complete
+|2021-09-02|13:00:20.802| [INFO] ............ kumar_test_TCGA-B0-5698-01Z-00-DX1 Number of Nuclei : 323 
+|2021-09-02|13:00:20.928| [INFO] ............ Instance map  Save Complete
+|2021-09-02|13:00:20.929| [INFO] ............ Overlay map  Save Complete
+|2021-09-02|13:00:20.929| [INFO] ............ kumar_test_TCGA-E2-A14V-01Z-00-DX1 Number of Nuclei : 395 
+|2021-09-02|13:00:20.974| [INFO] ............ Instance map  Save Complete
+|2021-09-02|13:00:20.974| [INFO] ............ Overlay map  Save Complete
+|2021-09-02|13:00:20.975| [INFO] ............ tnbc_test_09_4 Number of Nuclei : 86 
+|2021-09-02|13:00:21.027| [INFO] ............ Instance map  Save Complete
+|2021-09-02|13:00:21.027| [INFO] ............ Overlay map  Save Complete
+|2021-09-02|13:00:21.027| [INFO] ............ tnbc_test_09_5 Number of Nuclei : 57 
+|2021-09-02|13:25:05.442| [INFO] .... Detect #GPUS: 1
+|2021-09-02|13:26:20.718| [INFO] ........  Result Save .... 
+|2021-09-02|13:26:20.815| [INFO] ............ Instance map  Save Complete
+|2021-09-02|13:26:20.816| [INFO] ............ Overlay map  Save Complete
+|2021-09-02|13:26:20.816| [INFO] ............ consep_test_1 Number of Nuclei : 0 
+|2021-09-02|13:26:20.912| [INFO] ............ Instance map  Save Complete
+|2021-09-02|13:26:20.912| [INFO] ............ Overlay map  Save Complete
+|2021-09-02|13:26:20.912| [INFO] ............ consep_test_2 Number of Nuclei : 0 
+|2021-09-02|13:26:21.009| [INFO] ............ Instance map  Save Complete
+|2021-09-02|13:26:21.009| [INFO] ............ Overlay map  Save Complete
+|2021-09-02|13:26:21.010| [INFO] ............ kumar_test_TCGA-B0-5698-01Z-00-DX1 Number of Nuclei : 0 
+|2021-09-02|13:26:21.104| [INFO] ............ Instance map  Save Complete
+|2021-09-02|13:26:21.104| [INFO] ............ Overlay map  Save Complete
+|2021-09-02|13:26:21.104| [INFO] ............ kumar_test_TCGA-E2-A14V-01Z-00-DX1 Number of Nuclei : 0 
+|2021-09-02|13:26:21.136| [INFO] ............ Instance map  Save Complete
+|2021-09-02|13:26:21.136| [INFO] ............ Overlay map  Save Complete
+|2021-09-02|13:26:21.136| [INFO] ............ tnbc_test_09_4 Number of Nuclei : 0 
+|2021-09-02|13:26:21.169| [INFO] ............ Instance map  Save Complete
+|2021-09-02|13:26:21.169| [INFO] ............ Overlay map  Save Complete
+|2021-09-02|13:26:21.169| [INFO] ............ tnbc_test_09_5 Number of Nuclei : 0 
+|2021-09-02|13:27:23.677| [INFO] .... Detect #GPUS: 1
+|2021-09-02|13:28:23.306| [INFO] ........  Result Save .... 
+|2021-09-02|13:28:23.422| [INFO] ............ Instance map  Save Complete
+|2021-09-02|13:28:23.423| [INFO] ............ Overlay map  Save Complete
+|2021-09-02|13:28:23.423| [INFO] ............ consep_test_1 Number of Nuclei : 815 
+|2021-09-02|13:28:23.526| [INFO] ............ Instance map  Save Complete
+|2021-09-02|13:28:23.526| [INFO] ............ Overlay map  Save Complete
+|2021-09-02|13:28:23.526| [INFO] ............ consep_test_2 Number of Nuclei : 269 
+|2021-09-02|13:28:23.639| [INFO] ............ Instance map  Save Complete
+|2021-09-02|13:28:23.639| [INFO] ............ Overlay map  Save Complete
+|2021-09-02|13:28:23.639| [INFO] ............ kumar_test_TCGA-B0-5698-01Z-00-DX1 Number of Nuclei : 136 
+|2021-09-02|13:28:23.817| [INFO] ............ Instance map  Save Complete
+|2021-09-02|13:28:23.817| [INFO] ............ Overlay map  Save Complete
+|2021-09-02|13:28:23.818| [INFO] ............ kumar_test_TCGA-E2-A14V-01Z-00-DX1 Number of Nuclei : 475 
+|2021-09-02|13:28:23.858| [INFO] ............ Instance map  Save Complete
+|2021-09-02|13:28:23.858| [INFO] ............ Overlay map  Save Complete
+|2021-09-02|13:28:23.858| [INFO] ............ tnbc_test_09_4 Number of Nuclei : 10 
+|2021-09-02|13:28:23.890| [INFO] ............ Instance map  Save Complete
+|2021-09-02|13:28:23.890| [INFO] ............ Overlay map  Save Complete
+|2021-09-02|13:28:23.890| [INFO] ............ tnbc_test_09_5 Number of Nuclei : 11 
+|2021-09-02|14:14:01.442| [INFO] .... Detect #GPUS: 1
+|2021-09-02|14:18:40.028| [INFO] ........  Result Save .... 
+|2021-09-02|14:18:41.033| [INFO] ............ Instance map  Save Complete
+|2021-09-02|14:18:41.034| [INFO] ............ Overlay map  Save Complete
+|2021-09-02|14:18:41.034| [INFO] ............ consep_test_1 Number of Nuclei : 0 
+|2021-09-02|14:18:42.024| [INFO] ............ Instance map  Save Complete
+|2021-09-02|14:18:42.025| [INFO] ............ Overlay map  Save Complete
+|2021-09-02|14:18:42.025| [INFO] ............ consep_test_2 Number of Nuclei : 0 
+|2021-09-02|14:18:43.849| [INFO] ............ Instance map  Save Complete
+|2021-09-02|14:18:43.849| [INFO] ............ Overlay map  Save Complete
+|2021-09-02|14:18:43.850| [INFO] ............ kumar_test_TCGA-B0-5698-01Z-00-DX1 Number of Nuclei : 0 
+|2021-09-02|14:18:44.760| [INFO] ............ Instance map  Save Complete
+|2021-09-02|14:18:44.760| [INFO] ............ Overlay map  Save Complete
+|2021-09-02|14:18:44.761| [INFO] ............ kumar_test_TCGA-E2-A14V-01Z-00-DX1 Number of Nuclei : 0 
+|2021-09-02|14:18:45.120| [INFO] ............ Instance map  Save Complete
+|2021-09-02|14:18:45.120| [INFO] ............ Overlay map  Save Complete
+|2021-09-02|14:18:45.120| [INFO] ............ tnbc_test_09_4 Number of Nuclei : 0 
+|2021-09-02|14:18:45.440| [INFO] ............ Instance map  Save Complete
+|2021-09-02|14:18:45.440| [INFO] ............ Overlay map  Save Complete
+|2021-09-02|14:18:45.440| [INFO] ............ tnbc_test_09_5 Number of Nuclei : 0 
+|2021-09-02|15:07:12.798| [INFO] .... Detect #GPUS: 1
+|2021-09-02|15:08:30.289| [INFO] ........  Result Save .... 
+|2021-09-02|15:08:30.552| [INFO] ............ Instance map  Save Complete
+|2021-09-02|15:08:30.552| [INFO] ............ Overlay map  Save Complete
+|2021-09-02|15:08:30.552| [INFO] ............ consep_test_1 Number of Nuclei : 829 
+|2021-09-02|15:08:30.679| [INFO] ............ Instance map  Save Complete
+|2021-09-02|15:08:30.679| [INFO] ............ Overlay map  Save Complete
+|2021-09-02|15:08:30.679| [INFO] ............ consep_test_2 Number of Nuclei : 319 
+|2021-09-02|15:08:30.814| [INFO] ............ Instance map  Save Complete
+|2021-09-02|15:08:30.814| [INFO] ............ Overlay map  Save Complete
+|2021-09-02|15:08:30.814| [INFO] ............ kumar_test_TCGA-B0-5698-01Z-00-DX1 Number of Nuclei : 327 
+|2021-09-02|15:08:30.939| [INFO] ............ Instance map  Save Complete
+|2021-09-02|15:08:30.939| [INFO] ............ Overlay map  Save Complete
+|2021-09-02|15:08:30.939| [INFO] ............ kumar_test_TCGA-E2-A14V-01Z-00-DX1 Number of Nuclei : 401 
+|2021-09-02|15:08:30.981| [INFO] ............ Instance map  Save Complete
+|2021-09-02|15:08:30.981| [INFO] ............ Overlay map  Save Complete
+|2021-09-02|15:08:30.981| [INFO] ............ tnbc_test_09_4 Number of Nuclei : 88 
+|2021-09-02|15:08:31.022| [INFO] ............ Instance map  Save Complete
+|2021-09-02|15:08:31.022| [INFO] ............ Overlay map  Save Complete
+|2021-09-02|15:08:31.022| [INFO] ............ tnbc_test_09_5 Number of Nuclei : 56 
+|2021-09-02|16:26:56.121| [INFO] .... Detect #GPUS: 1
+|2021-09-02|16:27:24.323| [INFO] ........  Result Save .... 
+|2021-09-02|16:27:24.517| [INFO] ............ Instance map  Save Complete
+|2021-09-02|16:27:24.518| [INFO] ............ Overlay map  Save Complete
+|2021-09-02|16:27:24.518| [INFO] ............ svs_jpg Number of Nuclei : 904 
+|2021-09-02|18:06:17.013| [INFO] .... Detect #GPUS: 1
+|2021-09-02|18:06:46.000| [INFO] .... Detect #GPUS: 1
+|2021-09-02|18:08:06.318| [INFO] ........  Result Save .... 
+|2021-09-02|18:08:06.470| [INFO] ............ Instance map  Save Complete
+|2021-09-02|18:08:06.470| [INFO] ............ Overlay map  Save Complete
+|2021-09-02|18:08:06.470| [INFO] ............ consep_test_1 Number of Nuclei : 807 
+|2021-09-02|18:08:06.651| [INFO] ............ Instance map  Save Complete
+|2021-09-02|18:08:06.651| [INFO] ............ Overlay map  Save Complete
+|2021-09-02|18:08:06.652| [INFO] ............ consep_test_2 Number of Nuclei : 315 
+|2021-09-02|18:08:06.823| [INFO] ............ Instance map  Save Complete
+|2021-09-02|18:08:06.823| [INFO] ............ Overlay map  Save Complete
+|2021-09-02|18:08:06.824| [INFO] ............ kumar_test_TCGA-B0-5698-01Z-00-DX1 Number of Nuclei : 332 
+|2021-09-02|18:08:06.970| [INFO] ............ Instance map  Save Complete
+|2021-09-02|18:08:06.970| [INFO] ............ Overlay map  Save Complete
+|2021-09-02|18:08:06.970| [INFO] ............ kumar_test_TCGA-E2-A14V-01Z-00-DX1 Number of Nuclei : 395 
+|2021-09-02|18:08:07.034| [INFO] ............ Instance map  Save Complete
+|2021-09-02|18:08:07.034| [INFO] ............ Overlay map  Save Complete
+|2021-09-02|18:08:07.034| [INFO] ............ tnbc_test_09_4 Number of Nuclei : 86 
+|2021-09-02|18:08:07.083| [INFO] ............ Instance map  Save Complete
+|2021-09-02|18:08:07.084| [INFO] ............ Overlay map  Save Complete
+|2021-09-02|18:08:07.084| [INFO] ............ tnbc_test_09_5 Number of Nuclei : 59 
+|2021-09-03|10:00:06.325| [INFO] .... Detect #GPUS: 1
+|2021-09-03|10:02:59.772| [INFO] .... Detect #GPUS: 1
+|2021-09-03|10:04:20.126| [INFO] ........  Result Save .... 
+|2021-09-03|10:04:20.275| [INFO] ............ Instance map  Save Complete
+|2021-09-03|10:04:20.276| [INFO] ............ Overlay map  Save Complete
+|2021-09-03|10:04:20.276| [INFO] ............ consep_test_1 Number of Nuclei : 812 
+|2021-09-03|10:04:20.469| [INFO] ............ Instance map  Save Complete
+|2021-09-03|10:04:20.469| [INFO] ............ Overlay map  Save Complete
+|2021-09-03|10:04:20.470| [INFO] ............ consep_test_2 Number of Nuclei : 297 
+|2021-09-03|10:04:20.620| [INFO] ............ Instance map  Save Complete
+|2021-09-03|10:04:20.621| [INFO] ............ Overlay map  Save Complete
+|2021-09-03|10:04:20.621| [INFO] ............ kumar_test_TCGA-B0-5698-01Z-00-DX1 Number of Nuclei : 326 
+|2021-09-03|10:04:20.767| [INFO] ............ Instance map  Save Complete
+|2021-09-03|10:04:20.767| [INFO] ............ Overlay map  Save Complete
+|2021-09-03|10:04:20.768| [INFO] ............ kumar_test_TCGA-E2-A14V-01Z-00-DX1 Number of Nuclei : 393 
+|2021-09-03|10:04:20.820| [INFO] ............ Instance map  Save Complete
+|2021-09-03|10:04:20.820| [INFO] ............ Overlay map  Save Complete
+|2021-09-03|10:04:20.820| [INFO] ............ tnbc_test_09_4 Number of Nuclei : 86 
+|2021-09-03|10:04:20.857| [INFO] ............ Instance map  Save Complete
+|2021-09-03|10:04:20.857| [INFO] ............ Overlay map  Save Complete
+|2021-09-03|10:04:20.857| [INFO] ............ tnbc_test_09_5 Number of Nuclei : 57 
+|2021-09-03|10:04:47.013| [INFO] .... Detect #GPUS: 1
+|2021-09-03|10:05:19.603| [INFO] ........  Result Save .... 
+|2021-09-03|10:05:19.734| [INFO] ............ Instance map  Save Complete
+|2021-09-03|10:05:19.735| [INFO] ............ Overlay map  Save Complete
+|2021-09-03|10:05:19.735| [INFO] ............ svs_jpg Number of Nuclei : 878 
+|2021-09-03|10:10:56.556| [INFO] .... Detect #GPUS: 1
+|2021-09-03|10:12:02.231| [INFO] ........  Result Save .... 
+|2021-09-03|10:12:02.440| [INFO] ............ Instance map  Save Complete
+|2021-09-03|10:12:02.440| [INFO] ............ Overlay map  Save Complete
+|2021-09-03|10:12:02.441| [INFO] ............ test_3 Number of Nuclei : 472 
+|2021-09-03|10:12:02.591| [INFO] ............ Instance map  Save Complete
+|2021-09-03|10:12:02.591| [INFO] ............ Overlay map  Save Complete
+|2021-09-03|10:12:02.592| [INFO] ............ test_4 Number of Nuclei : 542 
+|2021-09-03|10:12:02.727| [INFO] ............ Instance map  Save Complete
+|2021-09-03|10:12:02.727| [INFO] ............ Overlay map  Save Complete
+|2021-09-03|10:12:02.727| [INFO] ............ test_5 Number of Nuclei : 855 
+|2021-09-03|10:12:02.854| [INFO] ............ Instance map  Save Complete
+|2021-09-03|10:12:02.854| [INFO] ............ Overlay map  Save Complete
+|2021-09-03|10:12:02.854| [INFO] ............ test_6 Number of Nuclei : 348 
+|2021-09-03|10:12:02.971| [INFO] ............ Instance map  Save Complete
+|2021-09-03|10:12:02.971| [INFO] ............ Overlay map  Save Complete
+|2021-09-03|10:12:02.971| [INFO] ............ test_7 Number of Nuclei : 174 
+|2021-09-03|10:15:31.989| [INFO] .... Detect #GPUS: 1
+|2021-09-03|10:16:55.352| [INFO] ........  Result Save .... 
+|2021-09-03|10:16:55.506| [INFO] ............ Instance map  Save Complete
+|2021-09-03|10:16:55.506| [INFO] ............ Overlay map  Save Complete
+|2021-09-03|10:16:55.507| [INFO] ............ test_3 Number of Nuclei : 0 
+|2021-09-03|10:16:55.642| [INFO] ............ Instance map  Save Complete
+|2021-09-03|10:16:55.642| [INFO] ............ Overlay map  Save Complete
+|2021-09-03|10:16:55.642| [INFO] ............ test_4 Number of Nuclei : 0 
+|2021-09-03|10:16:55.784| [INFO] ............ Instance map  Save Complete
+|2021-09-03|10:16:55.784| [INFO] ............ Overlay map  Save Complete
+|2021-09-03|10:16:55.784| [INFO] ............ test_5 Number of Nuclei : 0 
+|2021-09-03|10:16:55.917| [INFO] ............ Instance map  Save Complete
+|2021-09-03|10:16:55.917| [INFO] ............ Overlay map  Save Complete
+|2021-09-03|10:16:55.917| [INFO] ............ test_6 Number of Nuclei : 0 
+|2021-09-03|10:16:56.059| [INFO] ............ Instance map  Save Complete
+|2021-09-03|10:16:56.059| [INFO] ............ Overlay map  Save Complete
+|2021-09-03|10:16:56.059| [INFO] ............ test_7 Number of Nuclei : 0 
+|2021-09-03|10:17:34.751| [INFO] .... Detect #GPUS: 1
+|2021-09-03|10:18:59.830| [INFO] ........  Result Save .... 
+|2021-09-03|10:18:59.968| [INFO] ............ Instance map  Save Complete
+|2021-09-03|10:18:59.968| [INFO] ............ Overlay map  Save Complete
+|2021-09-03|10:18:59.969| [INFO] ............ test_3 Number of Nuclei : 414 
+|2021-09-03|10:19:00.153| [INFO] ............ Instance map  Save Complete
+|2021-09-03|10:19:00.153| [INFO] ............ Overlay map  Save Complete
+|2021-09-03|10:19:00.153| [INFO] ............ test_4 Number of Nuclei : 473 
+|2021-09-03|10:19:00.281| [INFO] ............ Instance map  Save Complete
+|2021-09-03|10:19:00.281| [INFO] ............ Overlay map  Save Complete
+|2021-09-03|10:19:00.281| [INFO] ............ test_5 Number of Nuclei : 832 
+|2021-09-03|10:19:00.419| [INFO] ............ Instance map  Save Complete
+|2021-09-03|10:19:00.419| [INFO] ............ Overlay map  Save Complete
+|2021-09-03|10:19:00.419| [INFO] ............ test_6 Number of Nuclei : 316 
+|2021-09-03|10:19:00.558| [INFO] ............ Instance map  Save Complete
+|2021-09-03|10:19:00.558| [INFO] ............ Overlay map  Save Complete
+|2021-09-03|10:19:00.559| [INFO] ............ test_7 Number of Nuclei : 165 
+|2021-09-23|15:31:04.329| [INFO] .... Detect #GPUS: 1
+|2021-09-23|15:32:28.494| [INFO] .... Detect #GPUS: 1
+|2021-09-23|15:33:22.961| [INFO] ........  Result Save .... 
+|2021-09-23|15:33:23.069| [INFO] ............ Instance map  Save Complete
+|2021-09-23|15:33:23.069| [INFO] ............ Overlay map  Save Complete
+|2021-09-23|15:33:23.070| [INFO] ............ svs_jpg Number of Nuclei : 0 
+|2021-09-23|15:35:27.749| [INFO] .... Detect #GPUS: 1
+|2021-09-23|15:35:40.104| [INFO] .... Detect #GPUS: 1
+|2021-09-23|15:36:13.192| [INFO] ........  Result Save .... 
+|2021-09-23|15:36:13.332| [INFO] ............ Instance map  Save Complete
+|2021-09-23|15:36:13.333| [INFO] ............ Overlay map  Save Complete
+|2021-09-23|15:36:13.333| [INFO] ............ svs_jpg Number of Nuclei : 905 
+|2021-09-23|15:38:38.798| [INFO] .... Detect #GPUS: 1
+|2021-09-23|15:39:05.911| [INFO] .... Detect #GPUS: 1
+|2021-09-23|15:39:36.469| [INFO] .... Detect #GPUS: 1
+|2021-09-23|15:41:37.342| [INFO] .... Detect #GPUS: 1
+|2021-09-23|15:41:58.671| [INFO] .... Detect #GPUS: 1
+|2021-09-23|15:42:31.927| [INFO] ........  Result Save .... 
+|2021-09-23|15:42:32.089| [INFO] ............ Instance map  Save Complete
+|2021-09-23|15:42:32.090| [INFO] ............ Overlay map  Save Complete
+|2021-09-23|15:42:32.090| [INFO] ............ svs_jpg Number of Nuclei : 0 
+|2021-09-23|15:42:49.021| [INFO] .... Detect #GPUS: 1
+|2021-09-23|15:43:22.397| [INFO] ........  Result Save .... 
+|2021-09-23|15:43:22.563| [INFO] ............ Instance map  Save Complete
+|2021-09-23|15:43:22.563| [INFO] ............ Overlay map  Save Complete
+|2021-09-23|15:43:22.563| [INFO] ............ svs_jpg Number of Nuclei : 308 
+|2021-09-23|15:45:12.743| [INFO] .... Detect #GPUS: 1
+|2021-09-23|15:45:45.672| [INFO] ........  Result Save .... 
+|2021-09-23|15:45:45.811| [INFO] ............ Instance map  Save Complete
+|2021-09-23|15:45:45.812| [INFO] ............ Overlay map  Save Complete
+|2021-09-23|15:45:45.812| [INFO] ............ svs_jpg Number of Nuclei : 905 
