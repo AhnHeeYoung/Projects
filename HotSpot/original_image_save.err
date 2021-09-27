@@ -1,0 +1,280 @@
+/var/spool/slurm-llnl/d/job715070/slurm_script: line 22: nvcc: command not found
+2021-08-19 12:53:19,413 - INFO - patient : S15-29001-3P-high
+2021-08-19 12:53:19,848 - INFO - Width : 121512  Height : 79777
+2021-08-19 13:05:55,492 - INFO - Patient S14-33469-3R-high  Complete
+2021-08-19 13:05:55,493 - INFO - patient : S14-33469-3S-high
+2021-08-19 13:05:56,118 - INFO - Width : 87648  Height : 72500
+2021-08-19 13:14:33,421 - INFO - Patient S14-41511-3R-int  Complete
+2021-08-19 13:14:33,421 - INFO - patient : S14-41511-3S-low
+2021-08-19 13:14:33,792 - INFO - Width : 117528  Height : 78808
+2021-08-19 13:17:00,368 - INFO - Patient S15-29001-3P-high  Complete
+2021-08-19 13:17:00,368 - INFO - patient : S15-29001-3Q-high
+2021-08-19 13:17:00,812 - INFO - Width : 129479  Height : 83836
+2021-08-19 13:22:23,126 - INFO - Patient S14-33469-3S-high  Complete
+2021-08-19 13:22:23,126 - INFO - patient : S14-33634-3R-low
+2021-08-19 13:22:23,467 - INFO - Width : 111552  Height : 84183
+2021-08-19 13:38:50,070 - INFO - Patient S14-41511-3S-low  Complete
+2021-08-19 13:38:50,070 - INFO - patient : S14-41974-3T-high
+2021-08-19 13:38:50,348 - INFO - Width : 89640  Height : 66316
+2021-08-19 13:44:46,195 - INFO - Patient S15-29001-3Q-high  Complete
+2021-08-19 13:44:46,195 - INFO - patient : S15-29062-5Y-low
+2021-08-19 13:44:49,688 - INFO - Width : 111552  Height : 88898
+2021-08-19 13:44:50,932 - INFO - Patient S14-33634-3R-low  Complete
+2021-08-19 13:44:50,932 - INFO - patient : S14-33634-3U-low
+2021-08-19 13:44:51,384 - INFO - Width : 113544  Height : 60106
+2021-08-19 13:53:56,052 - INFO - Patient S14-41974-3T-high  Complete
+2021-08-19 13:53:56,052 - INFO - patient : S14-42414-3V-low
+2021-08-19 13:53:56,418 - INFO - Width : 119520  Height : 82546
+2021-08-19 14:11:45,815 - INFO - Patient S14-33634-3U-low  Complete
+2021-08-19 14:11:45,970 - INFO - patient : S14-33889-3P-high
+2021-08-19 14:11:52,899 - INFO - Width : 121512  Height : 61073
+2021-08-19 14:17:53,834 - INFO - Patient S15-29062-5Y-low  Complete
+2021-08-19 14:17:53,835 - INFO - patient : S15-29062-5Z-low
+2021-08-19 14:17:54,289 - INFO - Width : 119520  Height : 91329
+2021-08-19 14:26:34,096 - INFO - Patient S14-42414-3V-low  Complete
+2021-08-19 14:26:34,096 - INFO - patient : S14-42414-3W-low
+2021-08-19 14:26:34,411 - INFO - Width : 125496  Height : 80262
+2021-08-19 14:35:27,117 - INFO - Patient S14-33889-3P-high  Complete
+2021-08-19 14:35:27,117 - INFO - patient : S14-33889-3R-high
+2021-08-19 14:35:27,411 - INFO - Width : 97608  Height : 62403
+2021-08-19 14:42:01,558 - INFO - Patient S15-29062-5Z-low  Complete
+2021-08-19 14:42:01,559 - INFO - patient : S15-29181-3T-low
+2021-08-19 14:42:01,923 - INFO - Width : 111552  Height : 47748
+2021-08-19 14:47:23,535 - INFO - Patient S14-42414-3W-low  Complete
+2021-08-19 14:47:23,536 - INFO - patient : S14-42815-3P-high
+2021-08-19 14:47:23,949 - INFO - Width : 117528  Height : 92958
+2021-08-19 14:49:34,519 - INFO - Patient S14-33889-3R-high  Complete
+2021-08-19 14:49:34,520 - INFO - patient : S14-34033-3O-high
+2021-08-19 14:49:34,845 - INFO - Width : 115536  Height : 94750
+2021-08-19 14:53:32,977 - INFO - Patient S15-29181-3T-low  Complete
+2021-08-19 14:53:32,978 - INFO - patient : S15-29981-3V-high
+2021-08-19 14:53:33,511 - INFO - Width : 123504  Height : 94904
+2021-08-19 15:10:43,990 - INFO - Patient S14-42815-3P-high  Complete
+2021-08-19 15:10:43,991 - INFO - patient : S14-42815-3S-high
+2021-08-19 15:10:44,293 - INFO - Width : 95616  Height : 80298
+2021-08-19 15:12:30,995 - INFO - Patient S14-34033-3O-high  Complete
+2021-08-19 15:12:30,995 - INFO - patient : S14-34033-3P-high
+2021-08-19 15:12:31,417 - INFO - Width : 119520  Height : 95232
+2021-08-19 15:21:20,555 - INFO - Patient S15-29981-3V-high  Complete
+2021-08-19 15:21:20,555 - INFO - patient : S15-30552-4S-low
+2021-08-19 15:21:20,821 - INFO - Width : 117528  Height : 78483
+2021-08-19 15:26:11,977 - INFO - Patient S14-42815-3S-high  Complete
+2021-08-19 15:26:11,977 - INFO - patient : S14-42854-5M-high
+2021-08-19 15:26:12,452 - INFO - Width : 107568  Height : 64831
+2021-08-19 15:37:44,458 - INFO - Patient S14-34033-3P-high  Complete
+2021-08-19 15:37:44,458 - INFO - patient : S14-34042-3V-high
+2021-08-19 15:37:44,824 - INFO - Width : 117528  Height : 83688
+2021-08-19 15:39:30,556 - INFO - Patient S14-42854-5M-high  Complete
+2021-08-19 15:39:30,556 - INFO - patient : S14-42854-5R-high
+2021-08-19 15:39:30,880 - INFO - Width : 123504  Height : 90024
+2021-08-19 15:41:39,881 - INFO - Patient S15-30552-4S-low  Complete
+2021-08-19 15:41:39,882 - INFO - patient : S15-30552-4T-low
+2021-08-19 15:41:40,174 - INFO - Width : 115536  Height : 63683
+2021-08-19 16:02:01,695 - INFO - Patient S14-34042-3V-high  Complete
+2021-08-19 16:02:01,695 - INFO - patient : S14-34702-3R-high
+2021-08-19 16:02:02,076 - INFO - Width : 115536  Height : 91984
+2021-08-19 16:03:18,708 - INFO - Patient S15-30552-4T-low  Complete
+2021-08-19 16:03:18,729 - INFO - patient : S15-30914-3O-high
+2021-08-19 16:03:19,846 - INFO - Width : 117528  Height : 80108
+slurmstepd-learningQ1: error: *** JOB 714756 ON learningQ1 CANCELLED AT 2021-08-19T16:03:51 ***
+2021-08-19 16:08:47,753 - INFO - Patient S14-42854-5R-high  Complete
+2021-08-19 16:08:47,793 - INFO - patient : S14-43837-3T-low
+2021-08-19 16:08:48,768 - INFO - Width : 123504  Height : 75060
+2021-08-19 16:36:38,570 - INFO - Patient S14-43837-3T-low  Complete
+2021-08-19 16:36:38,579 - INFO - patient : S14-43837-3U-low
+2021-08-19 16:36:38,920 - INFO - Width : 123504  Height : 93113
+2021-08-19 16:38:21,753 - INFO - Patient S15-30914-3O-high  Complete
+2021-08-19 16:38:21,756 - INFO - patient : S15-30914-3R-high
+2021-08-19 16:38:22,132 - INFO - Width : 113544  Height : 52624
+2021-08-19 16:39:07,843 - INFO - Patient S14-34702-3R-high  Complete
+2021-08-19 16:39:07,843 - INFO - patient : S14-34702-3S-high
+2021-08-19 16:39:08,162 - INFO - Width : 129479  Height : 83999
+2021-08-19 16:51:16,181 - INFO - Patient S15-30914-3R-high  Complete
+2021-08-19 16:51:16,182 - INFO - patient : S15-30925-3S-high
+2021-08-19 16:51:16,485 - INFO - Width : 121512  Height : 80104
+2021-08-19 17:03:40,632 - INFO - Patient S14-43837-3U-low  Complete
+2021-08-19 17:03:40,633 - INFO - patient : S14-44075-3S-high
+2021-08-19 17:03:41,438 - INFO - Width : 133464  Height : 91963
+2021-08-19 17:06:57,522 - INFO - Patient S14-34702-3S-high  Complete
+2021-08-19 17:06:57,523 - INFO - patient : S14-35883-3X-low
+2021-08-19 17:06:57,910 - INFO - Width : 123504  Height : 60420
+2021-08-19 17:22:01,201 - INFO - Patient S15-30925-3S-high  Complete
+2021-08-19 17:22:01,202 - INFO - patient : S15-31305-3T-low
+2021-08-19 17:22:01,475 - INFO - Width : 107568  Height : 83210
+2021-08-19 17:23:14,263 - INFO - Patient S14-35883-3X-low  Complete
+2021-08-19 17:23:14,263 - INFO - patient : S14-35883-3Y-low
+2021-08-19 17:23:14,566 - INFO - Width : 119520  Height : 89051
+2021-08-19 17:28:48,667 - INFO - Patient S14-44075-3S-high  Complete
+2021-08-19 17:28:48,667 - INFO - patient : S14-44473-3P-high
+2021-08-19 17:28:48,961 - INFO - Width : 123504  Height : 65788
+2021-08-19 17:44:48,451 - INFO - Patient S14-35883-3Y-low  Complete
+2021-08-19 17:44:48,451 - INFO - patient : S14-36020-3T-high
+2021-08-19 17:44:48,853 - INFO - Width : 111552  Height : 74747
+2021-08-19 17:46:24,579 - INFO - Patient S15-31305-3T-low  Complete
+2021-08-19 17:46:24,580 - INFO - patient : S15-31305-3U-low
+2021-08-19 17:46:25,052 - INFO - Width : 117528  Height : 71651
+2021-08-19 17:49:03,146 - INFO - Patient S14-44473-3P-high  Complete
+2021-08-19 17:49:03,146 - INFO - patient : S14-45552-3T-low
+2021-08-19 17:49:03,475 - INFO - Width : 121512  Height : 92466
+2021-08-19 18:08:51,409 - INFO - Patient S14-36020-3T-high  Complete
+2021-08-19 18:08:51,410 - INFO - patient : S14-36020-3U-high
+2021-08-19 18:08:51,983 - INFO - Width : 73704  Height : 88784
+2021-08-19 18:11:16,131 - INFO - Patient S15-31305-3U-low  Complete
+2021-08-19 18:11:16,131 - INFO - patient : S15-32308-3R-high
+2021-08-19 18:11:16,605 - INFO - Width : 113544  Height : 95241
+2021-08-19 18:16:03,905 - INFO - Patient S14-45552-3T-low  Complete
+2021-08-19 18:16:03,905 - INFO - patient : S14-45764-4V-high
+2021-08-19 18:16:04,367 - INFO - Width : 105576  Height : 63858
+2021-08-19 18:25:55,498 - INFO - Patient S14-36020-3U-high  Complete
+2021-08-19 18:25:55,499 - INFO - patient : S14-36067-3T-low
+2021-08-19 18:25:56,336 - INFO - Width : 113544  Height : 86457
+2021-08-19 18:38:30,126 - INFO - Patient S14-45764-4V-high  Complete
+2021-08-19 18:38:30,127 - INFO - patient : S14-45764-4Z-high
+2021-08-19 18:38:30,554 - INFO - Width : 109560  Height : 64015
+2021-08-19 18:47:54,376 - INFO - Patient S15-32308-3R-high  Complete
+2021-08-19 18:47:54,377 - INFO - patient : S15-32308-3U-high
+2021-08-19 18:47:54,651 - INFO - Width : 117528  Height : 63354
+2021-08-19 18:54:36,076 - INFO - Patient S14-45764-4Z-high  Complete
+2021-08-19 18:54:36,077 - INFO - patient : S14-45999-3T-low
+2021-08-19 18:54:36,592 - INFO - Width : 121512  Height : 88561
+2021-08-19 18:56:31,095 - INFO - Patient S14-36067-3T-low  Complete
+2021-08-19 18:56:31,095 - INFO - patient : S14-36067-3U-int
+2021-08-19 18:56:31,490 - INFO - Width : 123504  Height : 90674
+2021-08-19 19:06:20,749 - INFO - Patient S15-32308-3U-high  Complete
+2021-08-19 19:06:20,754 - INFO - patient : S15-32487-3Q-high
+2021-08-19 19:06:21,233 - INFO - Width : 113544  Height : 83365
+2021-08-19 19:21:55,551 - INFO - Patient S14-45999-3T-low  Complete
+2021-08-19 19:21:55,553 - INFO - patient : S14-46015-3V-low
+2021-08-19 19:21:55,964 - INFO - Width : 107568  Height : 88904
+2021-08-19 19:26:46,627 - INFO - Patient S14-36067-3U-int  Complete
+2021-08-19 19:26:46,627 - INFO - patient : S14-36215-3U-int
+2021-08-19 19:26:47,036 - INFO - Width : 105576  Height : 77683
+2021-08-19 19:28:21,023 - INFO - Patient S15-32487-3Q-high  Complete
+2021-08-19 19:28:21,024 - INFO - patient : S15-32506-4Q-low
+2021-08-19 19:28:21,777 - INFO - Width : 117528  Height : 94748
+2021-08-19 19:45:19,649 - INFO - Patient S14-36215-3U-int  Complete
+2021-08-19 19:45:19,649 - INFO - patient : S14-36215-3V-int
+2021-08-19 19:45:20,083 - INFO - Width : 101592  Height : 69393
+2021-08-19 19:50:56,698 - INFO - Patient S14-46015-3V-low  Complete
+2021-08-19 19:50:56,699 - INFO - patient : S14-46412-3R-int
+2021-08-19 19:50:56,992 - INFO - Width : 115536  Height : 83527
+2021-08-19 19:54:12,158 - INFO - Patient S15-32506-4Q-low  Complete
+2021-08-19 19:54:12,160 - INFO - patient : S15-32506-4Z-low
+2021-08-19 19:54:12,729 - INFO - Width : 105576  Height : 58164
+2021-08-19 20:01:55,842 - INFO - Patient S14-36215-3V-int  Complete
+2021-08-19 20:01:55,842 - INFO - patient : S14-36606-3T-low
+2021-08-19 20:01:56,186 - INFO - Width : 105576  Height : 91997
+2021-08-19 20:08:19,019 - INFO - Patient S15-32506-4Z-low  Complete
+2021-08-19 20:08:19,019 - INFO - patient : S15-32872-3N-low
+2021-08-19 20:08:19,438 - INFO - Width : 125496  Height : 93275
+2021-08-19 20:15:24,287 - INFO - Patient S14-46412-3R-int  Complete
+2021-08-19 20:15:24,289 - INFO - patient : S14-46412-3S-high
+2021-08-19 20:15:24,713 - INFO - Width : 111552  Height : 72470
+2021-08-19 20:26:26,974 - INFO - Patient S14-36606-3T-low  Complete
+2021-08-19 20:26:26,974 - INFO - patient : S14-36606-3U-int
+2021-08-19 20:26:27,190 - INFO - Width : 103584  Height : 88745
+2021-08-19 20:30:41,346 - INFO - Patient S15-32872-3N-low  Complete
+2021-08-19 20:30:41,346 - INFO - patient : S15-32872-3P-low
+2021-08-19 20:30:41,697 - INFO - Width : 123504  Height : 95228
+2021-08-19 20:33:04,799 - INFO - Patient S14-46412-3S-high  Complete
+2021-08-19 20:33:04,803 - INFO - patient : S14-47046-3P-high
+2021-08-19 20:33:05,177 - INFO - Width : 111552  Height : 69382
+2021-08-19 20:47:50,005 - INFO - Patient S14-36606-3U-int  Complete
+2021-08-19 20:47:50,005 - INFO - patient : S14-36805-3S-low
+2021-08-19 20:47:50,382 - INFO - Width : 111552  Height : 74261
+2021-08-19 20:48:39,143 - INFO - Patient S14-47046-3P-high  Complete
+2021-08-19 20:48:39,144 - INFO - patient : S14-47046-3W-high
+2021-08-19 20:48:39,626 - INFO - Width : 111552  Height : 62712
+2021-08-19 20:56:53,686 - INFO - Patient S15-32872-3P-low  Complete
+2021-08-19 20:56:53,686 - INFO - patient : S15-33417-4P-int
+2021-08-19 20:56:53,976 - INFO - Width : 113544  Height : 50673
+2021-08-19 21:04:22,012 - INFO - Patient S14-47046-3W-high  Complete
+2021-08-19 21:04:22,013 - INFO - patient : S14-47057-4Q-high
+2021-08-19 21:04:22,348 - INFO - Width : 121512  Height : 89213
+2021-08-19 21:06:55,060 - INFO - Patient S14-36805-3S-low  Complete
+2021-08-19 21:06:55,060 - INFO - patient : S14-36805-3T-int
+2021-08-19 21:06:55,368 - INFO - Width : 119520  Height : 73273
+2021-08-19 21:09:54,078 - INFO - Patient S15-33417-4P-int  Complete
+2021-08-19 21:09:54,080 - INFO - patient : S15-33417-4S-int
+2021-08-19 21:09:54,624 - INFO - Width : 93624  Height : 91361
+2021-08-19 21:26:26,492 - INFO - Patient S14-36805-3T-int  Complete
+2021-08-19 21:26:26,492 - INFO - patient : S14-37455-3O-high
+2021-08-19 21:26:27,076 - INFO - Width : 123504  Height : 95066
+2021-08-19 21:27:53,970 - INFO - Patient S15-33417-4S-int  Complete
+2021-08-19 21:27:53,974 - INFO - patient : S15-33446-3T-high
+2021-08-19 21:27:54,293 - INFO - Width : 97608  Height : 89079
+2021-08-19 21:32:12,847 - INFO - Patient S14-47057-4Q-high  Complete
+2021-08-19 21:32:12,847 - INFO - patient : S14-47057-4R-high
+2021-08-19 21:32:13,304 - INFO - Width : 117528  Height : 86778
+2021-08-19 21:48:05,362 - INFO - Patient S15-33446-3T-high  Complete
+2021-08-19 21:48:05,363 - INFO - patient : S15-33446-3U-high
+2021-08-19 21:48:05,720 - INFO - Width : 109560  Height : 75725
+2021-08-19 21:54:54,463 - INFO - Patient S14-37455-3O-high  Complete
+2021-08-19 21:54:54,464 - INFO - patient : S14-37455-3P-high
+2021-08-19 21:54:54,838 - INFO - Width : 95616  Height : 90871
+2021-08-19 21:58:18,281 - INFO - Patient S14-47057-4R-high  Complete
+2021-08-19 21:58:18,282 - INFO - patient : S14-47509-3O-high
+2021-08-19 21:58:18,627 - INFO - Width : 101592  Height : 92001
+2021-08-19 22:04:53,557 - INFO - Patient S15-33446-3U-high  Complete
+2021-08-19 22:04:53,558 - INFO - patient : S15-33612-3Q-int
+2021-08-19 22:04:53,886 - INFO - Width : 113544  Height : 72794
+2021-08-19 22:15:53,615 - INFO - Patient S14-37455-3P-high  Complete
+2021-08-19 22:15:53,615 - INFO - patient : S14-37862-3R-high
+2021-08-19 22:15:53,920 - INFO - Width : 111552  Height : 92802
+2021-08-19 22:23:59,305 - INFO - Patient S15-33612-3Q-int  Complete
+2021-08-19 22:23:59,306 - INFO - patient : S15-33612-3R-high
+2021-08-19 22:23:59,681 - INFO - Width : 115536  Height : 50995
+2021-08-19 22:25:52,032 - INFO - Patient S14-47509-3O-high  Complete
+2021-08-19 22:25:52,032 - INFO - patient : S14-47509-3Q-high
+2021-08-19 22:25:52,382 - INFO - Width : 99600  Height : 88913
+2021-08-19 22:37:38,419 - INFO - Patient S15-33612-3R-high  Complete
+2021-08-19 22:37:38,427 - INFO - patient : S15-33853-3P-low
+2021-08-19 22:37:38,714 - INFO - Width : 99600  Height : 57359
+2021-08-19 22:44:16,049 - INFO - Patient S14-37862-3R-high  Complete
+2021-08-19 22:44:16,049 - INFO - patient : S14-37862-3T-high
+2021-08-19 22:44:16,406 - INFO - Width : 111552  Height : 95242
+2021-08-19 22:49:43,818 - INFO - Patient S14-47509-3Q-high  Complete
+2021-08-19 22:49:43,819 - INFO - patient : S14-47817-3T-high
+2021-08-19 22:49:44,123 - INFO - Width : 111552  Height : 86784
+2021-08-19 22:50:22,994 - INFO - Patient S15-33853-3P-low  Complete
+2021-08-19 22:50:22,994 - INFO - patient : S15-33853-3Q-low
+2021-08-19 22:50:23,448 - INFO - Width : 107568  Height : 62715
+2021-08-19 23:03:46,344 - INFO - Patient S15-33853-3Q-low  Complete
+2021-08-19 23:03:46,348 - INFO - patient : S15-33904-3V-low
+2021-08-19 23:03:46,805 - INFO - Width : 103584  Height : 71505
+2021-08-19 23:09:29,648 - INFO - Patient S14-47817-3T-high  Complete
+2021-08-19 23:09:29,652 - INFO - patient : S14-48036-3X-high
+2021-08-19 23:09:29,946 - INFO - Width : 113544  Height : 81739
+2021-08-19 23:13:43,470 - INFO - Patient S14-37862-3T-high  Complete
+2021-08-19 23:13:43,470 - INFO - patient : S14-38000-3S-high
+2021-08-19 23:13:43,726 - INFO - Width : 105576  Height : 56374
+2021-08-19 23:22:29,746 - INFO - Patient S15-33904-3V-low  Complete
+2021-08-19 23:22:29,746 - INFO - patient : S15-33904-3W-int
+2021-08-19 23:22:30,157 - INFO - Width : 113544  Height : 71654
+2021-08-19 23:25:40,514 - INFO - Patient S14-38000-3S-high  Complete
+2021-08-19 23:25:40,515 - INFO - patient : S14-38000-3U-int
+2021-08-19 23:25:40,861 - INFO - Width : 113544  Height : 74258
+2021-08-19 23:31:53,521 - INFO - Patient S14-48036-3X-high  Complete
+2021-08-19 23:31:53,523 - INFO - patient : S14-48036-3Y-int
+2021-08-19 23:31:53,827 - INFO - Width : 103584  Height : 81101
+2021-08-19 23:42:23,259 - INFO - Patient S15-33904-3W-int  Complete
+2021-08-19 23:42:23,259 - INFO - patient : S15-34006-3V-low
+2021-08-19 23:42:23,809 - INFO - Width : 125496  Height : 95225
+2021-08-19 23:44:27,626 - INFO - Patient S14-38000-3U-int  Complete
+2021-08-19 23:44:27,626 - INFO - patient : S14-38485-4Q-high
+2021-08-19 23:44:27,863 - INFO - Width : 127488  Height : 78307
+2021-08-19 23:50:14,182 - INFO - Patient S14-48036-3Y-int  Complete
+2021-08-19 23:50:14,182 - INFO - patient : S14-48473-3O-high
+2021-08-19 23:50:14,780 - INFO - Width : 117528  Height : 92957
+2021-08-20 00:07:08,848 - INFO - Patient S14-38485-4Q-high  Complete
+2021-08-20 00:07:08,849 - INFO - patient : S14-38485-4R-high
+2021-08-20 00:07:09,103 - INFO - Width : 113544  Height : 78486
+2021-08-20 00:13:16,733 - INFO - Patient S15-34006-3V-low  Complete
+2021-08-20 00:13:16,736 - INFO - patient : S15-34006-3X-low
+2021-08-20 00:13:17,374 - INFO - Width : 127488  Height : 62854
+2021-08-20 00:22:58,405 - INFO - Patient S14-48473-3O-high  Complete
+2021-08-20 00:22:58,405 - INFO - patient : S14-48613-3S-low
+2021-08-20 00:22:58,910 - INFO - Width : 113544  Height : 91825
+slurmstepd-learningQ1: error: *** JOB 715068 ON learningQ1 CANCELLED AT 2021-08-20T00:25:45 ***
+slurmstepd-learningQ1: error: *** JOB 715069 ON learningQ1 CANCELLED AT 2021-08-20T00:25:47 ***
+slurmstepd-learningQ1: error: *** JOB 715070 ON learningQ1 CANCELLED AT 2021-08-20T00:25:52 ***

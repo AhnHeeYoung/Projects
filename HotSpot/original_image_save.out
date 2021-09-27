@@ -1,0 +1,6 @@
+--------
+HOSTNAME = learningQ1
+SLURM_JOB_NAME = original_image_save
+SLURM_CPUS_PER_TASK = 1
+CUDA_VISIBLE_DEVICES = 
+--------
