@@ -1,23 +1,8 @@
 # 개인 Projects를 정리하였습니다.
 
-1. Cell Instance Segmentation (task : Instance Segmentation)
-
-2. HE_IHC (task : Image Registration and Generation)
-
-3. Stain Normalization (task : Image Augmentation and Classification)
-
-4. HotSpot (task : Image Classification)
-
-5. Cell Detection (~)
-
-
-
-
-|Project|기간|협업|ㅇㅇ |
-|---------|--------|---------||---------|
-1            | Cell Instance Segmentation | 95%          
-2            | HE_IHC  | 95%
-3            | HED       | 88%
-4            | ColorNorm | 90%
-5            | pix2pix   | 90%
-
+|            |Project|Task|기간|협업|
+|------------|-----------|-----------|--------------|--------------|
+1            | HE_IHC  | GAN, Image Registration | 21.01 ~ 21.04  | Arontier & Samsung Hospital
+2            | Stain Normalization| Image Augmentation and Classification  | 21.04 ~ 21.06  | Arontier & Samsung Hospital
+3            | Cell(Nuclear) Instance Segmentation| Instance Segmentation  | 21.07 ~ 21.09  | Arontier
+4            | HotSpot| Image Classification  | 21.08 ~ 21.09| Arontier & Samsung Hospital
