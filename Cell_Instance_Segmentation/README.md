@@ -1,6 +1,6 @@
 # Arontier 회사에서 진행한 Cell Instance Segmentation task
   - 목적 : 활용가능한 모든 datasets을 활용하여 회사 서버 내에 Cell Instance Segmentation model 구축.
-  - 논문 : HoVer-Net: Simultaneous Segmentation and Classification of Nuclei in Multi-Tissue Histology Images 참고하였음.
+  - 논문 : HoVer-Net: Simultaneous Segmentation and Classification of Nuclei in Multi-Tissue Histology Images 참고.
 
 
 
