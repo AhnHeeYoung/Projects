@@ -6,7 +6,6 @@
 
 ## Result
 
-As I mentioned above, you will get Overlay output as a result of running the code.
 If you want more about the result, refer to ``` examles/usage.ipynb ```
 
 |  Input(삼성병원 위암 데이터) |  Output(no class) |  Output(class) |
