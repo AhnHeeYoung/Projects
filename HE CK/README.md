@@ -10,7 +10,7 @@
 
 |  Input(삼성병원 간암 데이터 (2103))| Ground Truth |  Prediction |
 | --- | --- | --- |
-|![ex/input.PNG](src/input.jpg)|![ex/gt.PNG](src/gt.jpg)|![ex/prediction.PNG](src/prediction.jpg)|
+|![src/input.jpg](src/input.jpg)|![src/gt.jpg](src/gt.jpg)|![src/prediction.jpg](src/prediction.jpg)|
 
 
 
