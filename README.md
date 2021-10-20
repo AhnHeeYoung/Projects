@@ -9,3 +9,9 @@
 4. HotSpot (task : Image Classification)
 
 5. Cell Detection (~)
+
+
+
+
+| Project Name | 기간 | 협업
+| ㅇ | ㅇ | ㅇ
