@@ -13,9 +13,10 @@
 
 
 
-|            |Model name|Test Accuracy|
-1            | AUG       | 95%          
-2            | AUG_BACK  | 95%
+|            |Project|기간| 협업 |
+|---------|--------|---------||---------|
+1            | Cell Instance Segmentation       | 95%          
+2            | HE_IHC  | 95%
 3            | HED       | 88%
 4            | ColorNorm | 90%
 5            | pix2pix   | 90%
