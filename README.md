@@ -13,9 +13,9 @@
 
 
 
-|            |Project|기간| 협업 |
+|Project|기간|협업|ㅇㅇ |
 |---------|--------|---------||---------|
-1            | Cell Instance Segmentation       | 95%          
+1            | Cell Instance Segmentation | 95%          
 2            | HE_IHC  | 95%
 3            | HED       | 88%
 4            | ColorNorm | 90%
