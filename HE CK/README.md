@@ -39,4 +39,4 @@
     
   - 1-2 ```test.py ``` 파일 실행:
     - 파일 실행 전, 예측하고 싶은 svs 파일의 path를 수정.
-    - 파일 실행 후, patch 별로 예측 후 각각을 stitch하여 완성된 전체파일이 jpg파일로 저장될 것임.
+    - 파일 실행 후, patch 별로 예측 후 각각을 stitch하여 완성된 전체파일이 jpg파일로 저장될 것임. (pretrained weight는 이메일 )
